@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>D3 Test</title>
+
+<style>
+
+.axis path,
+.axis line{
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+ 
+.axis text {
+    font-family: sans-serif;
+    font-size: 11px;
+}
+
+</style>
+        <script type="text/javascript" src="../lib/d3/d3.v3.min.js"></script>
+    </head>
+    <body>
+        <script type="text/javascript">
+            // Your beautiful D3 code will go here
+            d3.json("salaryloan.json",function(data){
+            
+            dataset = data.map(function(d)
+            {
+                name = d.INSTNM;
+                loan = +d.GRAD_DEBT_MDN;
+                salary = +d.mdearn;
+                return {"name": name, "loan": loan, "salary": salary};
+
+            });
+                
+            console.log(dataset);
+            var width = 900;
+            var height = 650;    
+            var svg = d3.select("body")
+                .append("svg")
+                .attr("width",width)
+                .attr("height",height);
+          
+            var colorscale = d3.scale.category20c()
+            var padding = { left:80, right:100, top:30, bottom:30 };
+            var xRangeWidth = width - padding.left - padding.right;
+            var yRangeWidth = height - padding.top - padding.bottom;
+            var xScale = d3.scale.linear()
+                                .domain([0,d3.max(dataset,function(d){return d.loan;})])
+                                .range([0,width]).nice();
+                                
+            var yScale = d3.scale.linear()
+                                .domain([0,d3.max(dataset,function(d){return d.salary;})])
+                                .range([height,0]).nice();
+            yScale.range([yRangeWidth, 0]);
+
+            var xAxis = d3.svg.axis()
+                .scale(xScale)
+                .orient("bottom");
+
+            
+            var yAxis = d3.svg.axis()
+                    .scale(yScale)
+                    .orient("left");
+
+           svg.append("g")
+            .attr("class","axis")
+            .attr("transform","translate(" + padding.left + "," + (height - padding.bottom) +  ")")
+            .call(xAxis);
+                
+            svg.append("g")
+            .attr("class","axis")
+            .attr("transform","translate(" + padding.left + "," + (height - padding.bottom - yRangeWidth) +  ")")
+            .call(yAxis); 
+           
+            svg.selectAll("rect")
+            .data(dataset)
+            .enter()
+            .append("rect")
+            .attr("x",function(d){return xScale(d.loan);})
+            .attr("y",function(d){return yScale(d.salary);})
+            .attr("width",5)
+            .attr("height",5)
+            .attr("fill", "orange");
+
+
+            
+       
+               });
+        
+
+
+        </script>
+    </body>
+</html>  

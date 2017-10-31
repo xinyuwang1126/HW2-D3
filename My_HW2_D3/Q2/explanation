@@ -1,0 +1,1 @@
+To generate the json file, I used "for" statement and "open" function in python. In html file, I used "stack", "scale" (ordinal and linear), "max" and "axis" method.

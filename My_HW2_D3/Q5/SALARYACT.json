@@ -1,0 +1,2217 @@
+[
+  {
+    "INSTNM": "Abraham Baldwin Agricultural College",
+    "ACTCMMID": 19,
+    "mdearn": 31900
+  },
+  {
+    "INSTNM": "Adams State University",
+    "ACTCMMID": 20,
+    "mdearn": 33200
+  },
+  {
+    "INSTNM": "Adventist University of Health Sciences",
+    "ACTCMMID": 19,
+    "mdearn": 51100
+  },
+  {
+    "INSTNM": "Alabama A & M University",
+    "ACTCMMID": 17,
+    "mdearn": 31400
+  },
+  {
+    "INSTNM": "Alabama State University",
+    "ACTCMMID": 17,
+    "mdearn": 27800
+  },
+  {
+    "INSTNM": "Alaska Pacific University",
+    "ACTCMMID": 22,
+    "mdearn": 47400
+  },
+  {
+    "INSTNM": "Albany State University",
+    "ACTCMMID": 19,
+    "mdearn": 32700
+  },
+  {
+    "INSTNM": "Alice Lloyd College",
+    "ACTCMMID": 21,
+    "mdearn": 33400
+  },
+  {
+    "INSTNM": "American University",
+    "ACTCMMID": 28,
+    "mdearn": 55900
+  },
+  {
+    "INSTNM": "Anderson University",
+    "ACTCMMID": 23,
+    "mdearn": 35900
+  },
+  {
+    "INSTNM": "Andrew College",
+    "ACTCMMID": 17,
+    "mdearn": 26400
+  },
+  {
+    "INSTNM": "Arizona Christian University",
+    "ACTCMMID": 23,
+    "mdearn": 31000
+  },
+  {
+    "INSTNM": "Arizona State University-Tempe",
+    "ACTCMMID": 25,
+    "mdearn": 45200
+  },
+  {
+    "INSTNM": "Arkansas State University-Main Campus",
+    "ACTCMMID": 24,
+    "mdearn": 32700
+  },
+  {
+    "INSTNM": "Arkansas Tech University",
+    "ACTCMMID": 22,
+    "mdearn": 35000
+  },
+  {
+    "INSTNM": "Armstrong Atlantic State University",
+    "ACTCMMID": 21,
+    "mdearn": 39400
+  },
+  {
+    "INSTNM": "Asbury University",
+    "ACTCMMID": 24,
+    "mdearn": 34100
+  },
+  {
+    "INSTNM": "Auburn University",
+    "ACTCMMID": 27,
+    "mdearn": 45400
+  },
+  {
+    "INSTNM": "Auburn University at Montgomery",
+    "ACTCMMID": 21,
+    "mdearn": 34800
+  },
+  {
+    "INSTNM": "Aurora University",
+    "ACTCMMID": 22,
+    "mdearn": 41500
+  },
+  {
+    "INSTNM": "Azusa Pacific University",
+    "ACTCMMID": 24,
+    "mdearn": 49000
+  },
+  {
+    "INSTNM": "Baker University",
+    "ACTCMMID": 24,
+    "mdearn": 48900
+  },
+  {
+    "INSTNM": "Ball State University",
+    "ACTCMMID": 22,
+    "mdearn": 39000
+  },
+  {
+    "INSTNM": "Baptist Health Schools-Little Rock",
+    "ACTCMMID": 21,
+    "mdearn": 42100
+  },
+  {
+    "INSTNM": "Barclay College",
+    "ACTCMMID": 20,
+    "mdearn": 26800
+  },
+  {
+    "INSTNM": "Barry University",
+    "ACTCMMID": 19,
+    "mdearn": 45300
+  },
+  {
+    "INSTNM": "Bellarmine University",
+    "ACTCMMID": 25,
+    "mdearn": 44900
+  },
+  {
+    "INSTNM": "Benedictine College",
+    "ACTCMMID": 25,
+    "mdearn": 37800
+  },
+  {
+    "INSTNM": "Benedictine University",
+    "ACTCMMID": 22,
+    "mdearn": 51000
+  },
+  {
+    "INSTNM": "Berea College",
+    "ACTCMMID": 24,
+    "mdearn": 34400
+  },
+  {
+    "INSTNM": "Berry College",
+    "ACTCMMID": 27,
+    "mdearn": 37700
+  },
+  {
+    "INSTNM": "Bethany College",
+    "ACTCMMID": 21,
+    "mdearn": 38500
+  },
+  {
+    "INSTNM": "Bethel College-Indiana",
+    "ACTCMMID": 24,
+    "mdearn": 36500
+  },
+  {
+    "INSTNM": "Bethel College-North Newton",
+    "ACTCMMID": 23,
+    "mdearn": 37400
+  },
+  {
+    "INSTNM": "Bethune-Cookman University",
+    "ACTCMMID": 17,
+    "mdearn": 28700
+  },
+  {
+    "INSTNM": "Biola University",
+    "ACTCMMID": 25,
+    "mdearn": 40700
+  },
+  {
+    "INSTNM": "Birmingham Southern College",
+    "ACTCMMID": 26,
+    "mdearn": 41900
+  },
+  {
+    "INSTNM": "Blackburn College",
+    "ACTCMMID": 22,
+    "mdearn": 38000
+  },
+  {
+    "INSTNM": "Boise State University",
+    "ACTCMMID": 23,
+    "mdearn": 35300
+  },
+  {
+    "INSTNM": "Bowdoin College",
+    "ACTCMMID": 32,
+    "mdearn": 54800
+  },
+  {
+    "INSTNM": "Bowie State University",
+    "ACTCMMID": 19,
+    "mdearn": 47000
+  },
+  {
+    "INSTNM": "Bradley University",
+    "ACTCMMID": 26,
+    "mdearn": 52400
+  },
+  {
+    "INSTNM": "Brenau University",
+    "ACTCMMID": 20,
+    "mdearn": 42600
+  },
+  {
+    "INSTNM": "Brescia University",
+    "ACTCMMID": 22,
+    "mdearn": 36800
+  },
+  {
+    "INSTNM": "Brewton-Parker College",
+    "ACTCMMID": 19,
+    "mdearn": 34700
+  },
+  {
+    "INSTNM": "Brigham Young University-Idaho",
+    "ACTCMMID": 23,
+    "mdearn": 39000
+  },
+  {
+    "INSTNM": "Buena Vista University",
+    "ACTCMMID": 23,
+    "mdearn": 38100
+  },
+  {
+    "INSTNM": "Butler University",
+    "ACTCMMID": 28,
+    "mdearn": 52400
+  },
+  {
+    "INSTNM": "California Baptist University",
+    "ACTCMMID": 21,
+    "mdearn": 41800
+  },
+  {
+    "INSTNM": "California Institute of Technology",
+    "ACTCMMID": 34,
+    "mdearn": 74000
+  },
+  {
+    "INSTNM": "California Lutheran University",
+    "ACTCMMID": 24,
+    "mdearn": 52900
+  },
+  {
+    "INSTNM": "California Maritime Academy",
+    "ACTCMMID": 24,
+    "mdearn": 81100
+  },
+  {
+    "INSTNM": "California Polytechnic State University-San Luis Obispo",
+    "ACTCMMID": 28,
+    "mdearn": 60900
+  },
+  {
+    "INSTNM": "California State Polytechnic University-Pomona",
+    "ACTCMMID": 23,
+    "mdearn": 52000
+  },
+  {
+    "INSTNM": "California State University-Bakersfield",
+    "ACTCMMID": 19,
+    "mdearn": 48100
+  },
+  {
+    "INSTNM": "California State University-Chico",
+    "ACTCMMID": 22,
+    "mdearn": 45100
+  },
+  {
+    "INSTNM": "California State University-Dominguez Hills",
+    "ACTCMMID": 17,
+    "mdearn": 42800
+  },
+  {
+    "INSTNM": "California State University-East Bay",
+    "ACTCMMID": 19,
+    "mdearn": 51300
+  },
+  {
+    "INSTNM": "California State University-Fresno",
+    "ACTCMMID": 19,
+    "mdearn": 43200
+  },
+  {
+    "INSTNM": "California State University-Fullerton",
+    "ACTCMMID": 22,
+    "mdearn": 46500
+  },
+  {
+    "INSTNM": "California State University-Long Beach",
+    "ACTCMMID": 21,
+    "mdearn": 46900
+  },
+  {
+    "INSTNM": "California State University-Los Angeles",
+    "ACTCMMID": 18,
+    "mdearn": 44900
+  },
+  {
+    "INSTNM": "California State University-Northridge",
+    "ACTCMMID": 19,
+    "mdearn": 44200
+  },
+  {
+    "INSTNM": "California State University-Sacramento",
+    "ACTCMMID": 20,
+    "mdearn": 46500
+  },
+  {
+    "INSTNM": "California State University-San Bernardino",
+    "ACTCMMID": 18,
+    "mdearn": 45500
+  },
+  {
+    "INSTNM": "California State University-Stanislaus",
+    "ACTCMMID": 19,
+    "mdearn": 44900
+  },
+  {
+    "INSTNM": "Calumet College of Saint Joseph",
+    "ACTCMMID": 18,
+    "mdearn": 37200
+  },
+  {
+    "INSTNM": "Campbellsville University",
+    "ACTCMMID": 21,
+    "mdearn": 32100
+  },
+  {
+    "INSTNM": "Capitol College",
+    "ACTCMMID": 21,
+    "mdearn": 58900
+  },
+  {
+    "INSTNM": "Catholic University of America",
+    "ACTCMMID": 25,
+    "mdearn": 54500
+  },
+  {
+    "INSTNM": "Centenary College of Louisiana",
+    "ACTCMMID": 25,
+    "mdearn": 39300
+  },
+  {
+    "INSTNM": "Central Baptist College",
+    "ACTCMMID": 21,
+    "mdearn": 35700
+  },
+  {
+    "INSTNM": "Central Christian College of Kansas",
+    "ACTCMMID": 21,
+    "mdearn": 31100
+  },
+  {
+    "INSTNM": "Central College",
+    "ACTCMMID": 24,
+    "mdearn": 41200
+  },
+  {
+    "INSTNM": "Central Connecticut State University",
+    "ACTCMMID": 22,
+    "mdearn": 43700
+  },
+  {
+    "INSTNM": "Centre College",
+    "ACTCMMID": 29,
+    "mdearn": 45000
+  },
+  {
+    "INSTNM": "Chaminade University of Honolulu",
+    "ACTCMMID": 21,
+    "mdearn": 37300
+  },
+  {
+    "INSTNM": "Chapman University",
+    "ACTCMMID": 27,
+    "mdearn": 51800
+  },
+  {
+    "INSTNM": "Chicago State University",
+    "ACTCMMID": 19,
+    "mdearn": 34200
+  },
+  {
+    "INSTNM": "Claremont McKenna College",
+    "ACTCMMID": 31,
+    "mdearn": 63600
+  },
+  {
+    "INSTNM": "Clark Atlanta University",
+    "ACTCMMID": 19,
+    "mdearn": 33700
+  },
+  {
+    "INSTNM": "Clarke University",
+    "ACTCMMID": 23,
+    "mdearn": 40900
+  },
+  {
+    "INSTNM": "Clayton State University",
+    "ACTCMMID": 20,
+    "mdearn": 38500
+  },
+  {
+    "INSTNM": "Clearwater Christian College",
+    "ACTCMMID": 22,
+    "mdearn": 34700
+  },
+  {
+    "INSTNM": "Coe College",
+    "ACTCMMID": 26,
+    "mdearn": 43800
+  },
+  {
+    "INSTNM": "Colby College",
+    "ACTCMMID": 30,
+    "mdearn": 53000
+  },
+  {
+    "INSTNM": "College of Coastal Georgia",
+    "ACTCMMID": 20,
+    "mdearn": 28000
+  },
+  {
+    "INSTNM": "Colorado College",
+    "ACTCMMID": 30,
+    "mdearn": 41100
+  },
+  {
+    "INSTNM": "Colorado Mesa University",
+    "ACTCMMID": 21,
+    "mdearn": 34600
+  },
+  {
+    "INSTNM": "Colorado School of Mines",
+    "ACTCMMID": 29,
+    "mdearn": 74700
+  },
+  {
+    "INSTNM": "Colorado State University-Fort Collins",
+    "ACTCMMID": 25,
+    "mdearn": 44300
+  },
+  {
+    "INSTNM": "Colorado State University-Pueblo",
+    "ACTCMMID": 21,
+    "mdearn": 36200
+  },
+  {
+    "INSTNM": "Columbus State University",
+    "ACTCMMID": 21,
+    "mdearn": 36100
+  },
+  {
+    "INSTNM": "Concordia University-Chicago",
+    "ACTCMMID": 22,
+    "mdearn": 41500
+  },
+  {
+    "INSTNM": "Concordia University-Irvine",
+    "ACTCMMID": 23,
+    "mdearn": 42100
+  },
+  {
+    "INSTNM": "Cornell College",
+    "ACTCMMID": 26,
+    "mdearn": 41900
+  },
+  {
+    "INSTNM": "Covenant College",
+    "ACTCMMID": 26,
+    "mdearn": 39800
+  },
+  {
+    "INSTNM": "Delaware State University",
+    "ACTCMMID": 18,
+    "mdearn": 34200
+  },
+  {
+    "INSTNM": "DePaul University",
+    "ACTCMMID": 26,
+    "mdearn": 50900
+  },
+  {
+    "INSTNM": "DePauw University",
+    "ACTCMMID": 27,
+    "mdearn": 47800
+  },
+  {
+    "INSTNM": "Dillard University",
+    "ACTCMMID": 19,
+    "mdearn": 34000
+  },
+  {
+    "INSTNM": "Dominican University",
+    "ACTCMMID": 22,
+    "mdearn": 44400
+  },
+  {
+    "INSTNM": "Dominican University of California",
+    "ACTCMMID": 23,
+    "mdearn": 51400
+  },
+  {
+    "INSTNM": "Dordt College",
+    "ACTCMMID": 25,
+    "mdearn": 38400
+  },
+  {
+    "INSTNM": "Drake University",
+    "ACTCMMID": 28,
+    "mdearn": 55700
+  },
+  {
+    "INSTNM": "Earlham College",
+    "ACTCMMID": 29,
+    "mdearn": 32300
+  },
+  {
+    "INSTNM": "Eastern Connecticut State University",
+    "ACTCMMID": 22,
+    "mdearn": 42400
+  },
+  {
+    "INSTNM": "Eastern Illinois University",
+    "ACTCMMID": 22,
+    "mdearn": 41200
+  },
+  {
+    "INSTNM": "Eastern Kentucky University",
+    "ACTCMMID": 22,
+    "mdearn": 33100
+  },
+  {
+    "INSTNM": "Edward Waters College",
+    "ACTCMMID": 17,
+    "mdearn": 25600
+  },
+  {
+    "INSTNM": "Elmhurst College",
+    "ACTCMMID": 24,
+    "mdearn": 48100
+  },
+  {
+    "INSTNM": "Embry-Riddle Aeronautical University-Daytona Beach",
+    "ACTCMMID": 24,
+    "mdearn": 60900
+  },
+  {
+    "INSTNM": "Embry-Riddle Aeronautical University-Prescott",
+    "ACTCMMID": 26,
+    "mdearn": 60900
+  },
+  {
+    "INSTNM": "Emory University",
+    "ACTCMMID": 31,
+    "mdearn": 59000
+  },
+  {
+    "INSTNM": "Emporia State University",
+    "ACTCMMID": 22,
+    "mdearn": 35900
+  },
+  {
+    "INSTNM": "Eureka College",
+    "ACTCMMID": 23,
+    "mdearn": 37300
+  },
+  {
+    "INSTNM": "Faith Baptist Bible College and Theological Seminary",
+    "ACTCMMID": 22,
+    "mdearn": 28100
+  },
+  {
+    "INSTNM": "Flagler College-St Augustine",
+    "ACTCMMID": 23,
+    "mdearn": 37200
+  },
+  {
+    "INSTNM": "Florida Agricultural and Mechanical University",
+    "ACTCMMID": 20,
+    "mdearn": 37300
+  },
+  {
+    "INSTNM": "Florida Atlantic University",
+    "ACTCMMID": 22,
+    "mdearn": 41400
+  },
+  {
+    "INSTNM": "Florida College",
+    "ACTCMMID": 23,
+    "mdearn": 36900
+  },
+  {
+    "INSTNM": "Florida Institute of Technology",
+    "ACTCMMID": 26,
+    "mdearn": 53100
+  },
+  {
+    "INSTNM": "Florida International University",
+    "ACTCMMID": 26,
+    "mdearn": 45100
+  },
+  {
+    "INSTNM": "Florida Southern College",
+    "ACTCMMID": 25,
+    "mdearn": 37600
+  },
+  {
+    "INSTNM": "Florida State University",
+    "ACTCMMID": 27,
+    "mdearn": 44000
+  },
+  {
+    "INSTNM": "Fort Hays State University",
+    "ACTCMMID": 21,
+    "mdearn": 37400
+  },
+  {
+    "INSTNM": "Fort Lewis College",
+    "ACTCMMID": 23,
+    "mdearn": 34000
+  },
+  {
+    "INSTNM": "Franklin College",
+    "ACTCMMID": 22,
+    "mdearn": 41000
+  },
+  {
+    "INSTNM": "Fresno Pacific University",
+    "ACTCMMID": 20,
+    "mdearn": 39700
+  },
+  {
+    "INSTNM": "Friends University",
+    "ACTCMMID": 21,
+    "mdearn": 41800
+  },
+  {
+    "INSTNM": "Gallaudet University",
+    "ACTCMMID": 18,
+    "mdearn": 25600
+  },
+  {
+    "INSTNM": "George Washington University",
+    "ACTCMMID": 29,
+    "mdearn": 64500
+  },
+  {
+    "INSTNM": "Georgetown College",
+    "ACTCMMID": 24,
+    "mdearn": 43000
+  },
+  {
+    "INSTNM": "Georgetown University",
+    "ACTCMMID": 31,
+    "mdearn": 83300
+  },
+  {
+    "INSTNM": "Georgia College and State University",
+    "ACTCMMID": 24,
+    "mdearn": 38500
+  },
+  {
+    "INSTNM": "Georgia Institute of Technology-Main Campus",
+    "ACTCMMID": 30,
+    "mdearn": 74000
+  },
+  {
+    "INSTNM": "Georgia Southwestern State University",
+    "ACTCMMID": 20,
+    "mdearn": 36400
+  },
+  {
+    "INSTNM": "Georgia State University",
+    "ACTCMMID": 23,
+    "mdearn": 41500
+  },
+  {
+    "INSTNM": "Gordon State College",
+    "ACTCMMID": 17,
+    "mdearn": 29900
+  },
+  {
+    "INSTNM": "Goshen College",
+    "ACTCMMID": 26,
+    "mdearn": 36300
+  },
+  {
+    "INSTNM": "Grace College and Theological Seminary",
+    "ACTCMMID": 23,
+    "mdearn": 33200
+  },
+  {
+    "INSTNM": "Graceland University-Lamoni",
+    "ACTCMMID": 21,
+    "mdearn": 36600
+  },
+  {
+    "INSTNM": "Grambling State University",
+    "ACTCMMID": 18,
+    "mdearn": 28300
+  },
+  {
+    "INSTNM": "Grand View University",
+    "ACTCMMID": 21,
+    "mdearn": 39200
+  },
+  {
+    "INSTNM": "Greenville College",
+    "ACTCMMID": 22,
+    "mdearn": 37700
+  },
+  {
+    "INSTNM": "Grinnell College",
+    "ACTCMMID": 30,
+    "mdearn": 45600
+  },
+  {
+    "INSTNM": "Hanover College",
+    "ACTCMMID": 26,
+    "mdearn": 44400
+  },
+  {
+    "INSTNM": "Harding University",
+    "ACTCMMID": 25,
+    "mdearn": 38600
+  },
+  {
+    "INSTNM": "Harvey Mudd College",
+    "ACTCMMID": 34,
+    "mdearn": 78600
+  },
+  {
+    "INSTNM": "Hawaii Pacific University",
+    "ACTCMMID": 22,
+    "mdearn": 43400
+  },
+  {
+    "INSTNM": "Hebrew Theological College",
+    "ACTCMMID": 21,
+    "mdearn": 17600
+  },
+  {
+    "INSTNM": "Henderson State University",
+    "ACTCMMID": 22,
+    "mdearn": 35200
+  },
+  {
+    "INSTNM": "Hendrix College",
+    "ACTCMMID": 29,
+    "mdearn": 40500
+  },
+  {
+    "INSTNM": "Holy Cross College",
+    "ACTCMMID": 23,
+    "mdearn": 36300
+  },
+  {
+    "INSTNM": "Holy Names University",
+    "ACTCMMID": 19,
+    "mdearn": 50100
+  },
+  {
+    "INSTNM": "Hope International University",
+    "ACTCMMID": 20,
+    "mdearn": 35100
+  },
+  {
+    "INSTNM": "Howard University",
+    "ACTCMMID": 24,
+    "mdearn": 46500
+  },
+  {
+    "INSTNM": "Humboldt State University",
+    "ACTCMMID": 21,
+    "mdearn": 36200
+  },
+  {
+    "INSTNM": "Huntingdon College",
+    "ACTCMMID": 22,
+    "mdearn": 37100
+  },
+  {
+    "INSTNM": "Huntington University",
+    "ACTCMMID": 24,
+    "mdearn": 35500
+  },
+  {
+    "INSTNM": "Husson University",
+    "ACTCMMID": 19,
+    "mdearn": 37100
+  },
+  {
+    "INSTNM": "Illinois College",
+    "ACTCMMID": 22,
+    "mdearn": 37700
+  },
+  {
+    "INSTNM": "Illinois Institute of Technology",
+    "ACTCMMID": 28,
+    "mdearn": 68200
+  },
+  {
+    "INSTNM": "Illinois State University",
+    "ACTCMMID": 24,
+    "mdearn": 45100
+  },
+  {
+    "INSTNM": "Illinois Wesleyan University",
+    "ACTCMMID": 28,
+    "mdearn": 54600
+  },
+  {
+    "INSTNM": "Indiana Institute of Technology",
+    "ACTCMMID": 20,
+    "mdearn": 41100
+  },
+  {
+    "INSTNM": "Indiana State University",
+    "ACTCMMID": 19,
+    "mdearn": 36000
+  },
+  {
+    "INSTNM": "Indiana University-Bloomington",
+    "ACTCMMID": 27,
+    "mdearn": 45300
+  },
+  {
+    "INSTNM": "Indiana University-East",
+    "ACTCMMID": 21,
+    "mdearn": 29100
+  },
+  {
+    "INSTNM": "Indiana University-Kokomo",
+    "ACTCMMID": 21,
+    "mdearn": 33600
+  },
+  {
+    "INSTNM": "Indiana University-Northwest",
+    "ACTCMMID": 20,
+    "mdearn": 35900
+  },
+  {
+    "INSTNM": "Indiana University-Purdue University-Fort Wayne",
+    "ACTCMMID": 22,
+    "mdearn": 35900
+  },
+  {
+    "INSTNM": "Indiana University-Purdue University-Indianapolis",
+    "ACTCMMID": 22,
+    "mdearn": 39100
+  },
+  {
+    "INSTNM": "Indiana University-South Bend",
+    "ACTCMMID": 21,
+    "mdearn": 33800
+  },
+  {
+    "INSTNM": "Indiana University-Southeast",
+    "ACTCMMID": 20,
+    "mdearn": 34000
+  },
+  {
+    "INSTNM": "Indiana Wesleyan University",
+    "ACTCMMID": 24,
+    "mdearn": 46000
+  },
+  {
+    "INSTNM": "Iowa State University",
+    "ACTCMMID": 25,
+    "mdearn": 47200
+  },
+  {
+    "INSTNM": "Iowa Wesleyan College",
+    "ACTCMMID": 22,
+    "mdearn": 34100
+  },
+  {
+    "INSTNM": "Jacksonville State University",
+    "ACTCMMID": 23,
+    "mdearn": 35100
+  },
+  {
+    "INSTNM": "Jacksonville University",
+    "ACTCMMID": 22,
+    "mdearn": 47700
+  },
+  {
+    "INSTNM": "John Brown University",
+    "ACTCMMID": 25,
+    "mdearn": 46200
+  },
+  {
+    "INSTNM": "Johnson University Florida",
+    "ACTCMMID": 21,
+    "mdearn": 29500
+  },
+  {
+    "INSTNM": "Judson College",
+    "ACTCMMID": 22,
+    "mdearn": 30700
+  },
+  {
+    "INSTNM": "Judson University",
+    "ACTCMMID": 23,
+    "mdearn": 37000
+  },
+  {
+    "INSTNM": "Kansas Wesleyan University",
+    "ACTCMMID": 22,
+    "mdearn": 36600
+  },
+  {
+    "INSTNM": "Kennesaw State University",
+    "ACTCMMID": 23,
+    "mdearn": 41300
+  },
+  {
+    "INSTNM": "Kentucky Christian University",
+    "ACTCMMID": 21,
+    "mdearn": 28000
+  },
+  {
+    "INSTNM": "Kentucky Mountain Bible College",
+    "ACTCMMID": 20,
+    "mdearn": "PrivacySuppressed"
+  },
+  {
+    "INSTNM": "Kentucky State University",
+    "ACTCMMID": 18,
+    "mdearn": 26600
+  },
+  {
+    "INSTNM": "Kentucky Wesleyan College",
+    "ACTCMMID": 22,
+    "mdearn": 36600
+  },
+  {
+    "INSTNM": "La Sierra University",
+    "ACTCMMID": 20,
+    "mdearn": 41300
+  },
+  {
+    "INSTNM": "LaGrange College",
+    "ACTCMMID": 21,
+    "mdearn": 38100
+  },
+  {
+    "INSTNM": "Lake Forest College",
+    "ACTCMMID": 26,
+    "mdearn": 48100
+  },
+  {
+    "INSTNM": "Le Cordon Bleu College of Culinary Arts-Chicago",
+    "ACTCMMID": "NULL",
+    "mdearn": 32800
+  },
+  {
+    "INSTNM": "Lewis University",
+    "ACTCMMID": 24,
+    "mdearn": 47100
+  },
+  {
+    "INSTNM": "Lewis-Clark State College",
+    "ACTCMMID": 20,
+    "mdearn": 32700
+  },
+  {
+    "INSTNM": "Lexington College",
+    "ACTCMMID": 18,
+    "mdearn": "PrivacySuppressed"
+  },
+  {
+    "INSTNM": "Life Pacific College",
+    "ACTCMMID": 20,
+    "mdearn": 31200
+  },
+  {
+    "INSTNM": "Lincoln Christian University",
+    "ACTCMMID": 22,
+    "mdearn": 29300
+  },
+  {
+    "INSTNM": "Lincoln College",
+    "ACTCMMID": 18,
+    "mdearn": 29200
+  },
+  {
+    "INSTNM": "Loras College",
+    "ACTCMMID": 24,
+    "mdearn": 41200
+  },
+  {
+    "INSTNM": "Louisiana College",
+    "ACTCMMID": 21,
+    "mdearn": 39600
+  },
+  {
+    "INSTNM": "Louisiana State University and Agricultural & Mechanical College",
+    "ACTCMMID": 26,
+    "mdearn": 45900
+  },
+  {
+    "INSTNM": "Louisiana State University-Alexandria",
+    "ACTCMMID": 20,
+    "mdearn": 30500
+  },
+  {
+    "INSTNM": "Louisiana State University-Shreveport",
+    "ACTCMMID": 22,
+    "mdearn": 36700
+  },
+  {
+    "INSTNM": "Louisiana Tech University",
+    "ACTCMMID": 24,
+    "mdearn": 41100
+  },
+  {
+    "INSTNM": "Loyola Marymount University",
+    "ACTCMMID": 27,
+    "mdearn": 55600
+  },
+  {
+    "INSTNM": "Loyola University Chicago",
+    "ACTCMMID": 27,
+    "mdearn": 50600
+  },
+  {
+    "INSTNM": "Loyola University New Orleans",
+    "ACTCMMID": 25,
+    "mdearn": 41300
+  },
+  {
+    "INSTNM": "Luther College",
+    "ACTCMMID": 26,
+    "mdearn": 42500
+  },
+  {
+    "INSTNM": "Lynn University",
+    "ACTCMMID": 20,
+    "mdearn": 35500
+  },
+  {
+    "INSTNM": "Lyon College",
+    "ACTCMMID": 25,
+    "mdearn": 37200
+  },
+  {
+    "INSTNM": "MacMurray College",
+    "ACTCMMID": 21,
+    "mdearn": 36700
+  },
+  {
+    "INSTNM": "Maine Maritime Academy",
+    "ACTCMMID": 22,
+    "mdearn": 74700
+  },
+  {
+    "INSTNM": "Manchester University",
+    "ACTCMMID": 22,
+    "mdearn": 38000
+  },
+  {
+    "INSTNM": "Manhattan Christian College",
+    "ACTCMMID": 22,
+    "mdearn": 30900
+  },
+  {
+    "INSTNM": "Marian University",
+    "ACTCMMID": 22,
+    "mdearn": 40400
+  },
+  {
+    "INSTNM": "Marion Military Institute",
+    "ACTCMMID": 22,
+    "mdearn": 48500
+  },
+  {
+    "INSTNM": "McKendree University",
+    "ACTCMMID": 23,
+    "mdearn": 42500
+  },
+  {
+    "INSTNM": "McNeese State University",
+    "ACTCMMID": 22,
+    "mdearn": 36800
+  },
+  {
+    "INSTNM": "McPherson College",
+    "ACTCMMID": 22,
+    "mdearn": 35500
+  },
+  {
+    "INSTNM": "Mercer University",
+    "ACTCMMID": 26,
+    "mdearn": 46600
+  },
+  {
+    "INSTNM": "Metropolitan State University of Denver",
+    "ACTCMMID": 21,
+    "mdearn": 38600
+  },
+  {
+    "INSTNM": "Mid-Continent University",
+    "ACTCMMID": 20,
+    "mdearn": 38300
+  },
+  {
+    "INSTNM": "MidAmerica Nazarene University",
+    "ACTCMMID": 20,
+    "mdearn": 39100
+  },
+  {
+    "INSTNM": "Midway College",
+    "ACTCMMID": 22,
+    "mdearn": 36600
+  },
+  {
+    "INSTNM": "Millikin University",
+    "ACTCMMID": 24,
+    "mdearn": 42900
+  },
+  {
+    "INSTNM": "Monmouth College",
+    "ACTCMMID": 23,
+    "mdearn": 40700
+  },
+  {
+    "INSTNM": "Morehead State University",
+    "ACTCMMID": 22,
+    "mdearn": 31800
+  },
+  {
+    "INSTNM": "Morehouse College",
+    "ACTCMMID": 21,
+    "mdearn": 40900
+  },
+  {
+    "INSTNM": "Morningside College",
+    "ACTCMMID": 23,
+    "mdearn": 35600
+  },
+  {
+    "INSTNM": "Mount Mercy University",
+    "ACTCMMID": 22,
+    "mdearn": 43200
+  },
+  {
+    "INSTNM": "Mount St Mary's College",
+    "ACTCMMID": 19,
+    "mdearn": 50200
+  },
+  {
+    "INSTNM": "Murray State University",
+    "ACTCMMID": 22,
+    "mdearn": 35500
+  },
+  {
+    "INSTNM": "Newman University",
+    "ACTCMMID": 24,
+    "mdearn": 41900
+  },
+  {
+    "INSTNM": "Nicholls State University",
+    "ACTCMMID": 22,
+    "mdearn": 35000
+  },
+  {
+    "INSTNM": "North Central College",
+    "ACTCMMID": 25,
+    "mdearn": 45700
+  },
+  {
+    "INSTNM": "North Park University",
+    "ACTCMMID": 22,
+    "mdearn": 41400
+  },
+  {
+    "INSTNM": "Northeastern Illinois University",
+    "ACTCMMID": 19,
+    "mdearn": 36000
+  },
+  {
+    "INSTNM": "Northern Arizona University",
+    "ACTCMMID": 23,
+    "mdearn": 38800
+  },
+  {
+    "INSTNM": "Northern Illinois University",
+    "ACTCMMID": 22,
+    "mdearn": 43900
+  },
+  {
+    "INSTNM": "Northern Kentucky University",
+    "ACTCMMID": 22,
+    "mdearn": 36100
+  },
+  {
+    "INSTNM": "Northwest Nazarene University",
+    "ACTCMMID": 25,
+    "mdearn": 36500
+  },
+  {
+    "INSTNM": "Northwestern College",
+    "ACTCMMID": 24,
+    "mdearn": 36200
+  },
+  {
+    "INSTNM": "Northwestern State University of Louisiana",
+    "ACTCMMID": 22,
+    "mdearn": 35000
+  },
+  {
+    "INSTNM": "Northwestern University",
+    "ACTCMMID": 33,
+    "mdearn": 64100
+  },
+  {
+    "INSTNM": "Northwood University-Florida",
+    "ACTCMMID": 20,
+    "mdearn": 44600
+  },
+  {
+    "INSTNM": "Notre Dame de Namur University",
+    "ACTCMMID": 20,
+    "mdearn": 51300
+  },
+  {
+    "INSTNM": "Nova Southeastern University",
+    "ACTCMMID": 24,
+    "mdearn": 46500
+  },
+  {
+    "INSTNM": "Oakland City University",
+    "ACTCMMID": 22,
+    "mdearn": 33700
+  },
+  {
+    "INSTNM": "Oakwood University",
+    "ACTCMMID": 20,
+    "mdearn": 33700
+  },
+  {
+    "INSTNM": "Occidental College",
+    "ACTCMMID": 29,
+    "mdearn": 50100
+  },
+  {
+    "INSTNM": "Oglethorpe University",
+    "ACTCMMID": 25,
+    "mdearn": 43900
+  },
+  {
+    "INSTNM": "Olivet Nazarene University",
+    "ACTCMMID": 24,
+    "mdearn": 37700
+  },
+  {
+    "INSTNM": "Otis College of Art and Design",
+    "ACTCMMID": 22,
+    "mdearn": 42000
+  },
+  {
+    "INSTNM": "Ottawa University-Ottawa",
+    "ACTCMMID": 22,
+    "mdearn": 40700
+  },
+  {
+    "INSTNM": "Ouachita Baptist University",
+    "ACTCMMID": 24,
+    "mdearn": 37500
+  },
+  {
+    "INSTNM": "Our Lady of the Lake College",
+    "ACTCMMID": 22,
+    "mdearn": 44200
+  },
+  {
+    "INSTNM": "Pacific Union College",
+    "ACTCMMID": 22,
+    "mdearn": 48600
+  },
+  {
+    "INSTNM": "Paine College",
+    "ACTCMMID": 16,
+    "mdearn": 25900
+  },
+  {
+    "INSTNM": "Palm Beach Atlantic University",
+    "ACTCMMID": 23,
+    "mdearn": 38100
+  },
+  {
+    "INSTNM": "Piedmont College",
+    "ACTCMMID": 22,
+    "mdearn": 38800
+  },
+  {
+    "INSTNM": "Pittsburg State University",
+    "ACTCMMID": 22,
+    "mdearn": 38200
+  },
+  {
+    "INSTNM": "Point Loma Nazarene University",
+    "ACTCMMID": 26,
+    "mdearn": 50300
+  },
+  {
+    "INSTNM": "Point University",
+    "ACTCMMID": 20,
+    "mdearn": 28800
+  },
+  {
+    "INSTNM": "Pomona College",
+    "ACTCMMID": 33,
+    "mdearn": 52600
+  },
+  {
+    "INSTNM": "Post University",
+    "ACTCMMID": 19,
+    "mdearn": 36600
+  },
+  {
+    "INSTNM": "Prescott College",
+    "ACTCMMID": 26,
+    "mdearn": 35200
+  },
+  {
+    "INSTNM": "Purdue University-North Central Campus",
+    "ACTCMMID": 20,
+    "mdearn": 35200
+  },
+  {
+    "INSTNM": "Quincy University",
+    "ACTCMMID": 23,
+    "mdearn": 38500
+  },
+  {
+    "INSTNM": "Quinnipiac University",
+    "ACTCMMID": 25,
+    "mdearn": 56400
+  },
+  {
+    "INSTNM": "Regis College",
+    "ACTCMMID": 21,
+    "mdearn": 43300
+  },
+  {
+    "INSTNM": "Regis University",
+    "ACTCMMID": 24,
+    "mdearn": 53100
+  },
+  {
+    "INSTNM": "Reinhardt University",
+    "ACTCMMID": 22,
+    "mdearn": 35400
+  },
+  {
+    "INSTNM": "Rockford University",
+    "ACTCMMID": 22,
+    "mdearn": 39100
+  },
+  {
+    "INSTNM": "Rollins College",
+    "ACTCMMID": 27,
+    "mdearn": 42200
+  },
+  {
+    "INSTNM": "Roosevelt University",
+    "ACTCMMID": 22,
+    "mdearn": 44600
+  },
+  {
+    "INSTNM": "Rose-Hulman Institute of Technology",
+    "ACTCMMID": 30,
+    "mdearn": 78900
+  },
+  {
+    "INSTNM": "Saint Ambrose University",
+    "ACTCMMID": 23,
+    "mdearn": 44800
+  },
+  {
+    "INSTNM": "Saint Josephs College",
+    "ACTCMMID": 22,
+    "mdearn": 39800
+  },
+  {
+    "INSTNM": "Saint Mary-of-the-Woods College",
+    "ACTCMMID": 19,
+    "mdearn": 30200
+  },
+  {
+    "INSTNM": "Saint Mary's College",
+    "ACTCMMID": 26,
+    "mdearn": 45600
+  },
+  {
+    "INSTNM": "Saint Mary's College of California",
+    "ACTCMMID": 25,
+    "mdearn": 59000
+  },
+  {
+    "INSTNM": "Saint Xavier University",
+    "ACTCMMID": 22,
+    "mdearn": 45300
+  },
+  {
+    "INSTNM": "Samford University",
+    "ACTCMMID": 26,
+    "mdearn": 45800
+  },
+  {
+    "INSTNM": "San Diego Christian College",
+    "ACTCMMID": 21,
+    "mdearn": 34400
+  },
+  {
+    "INSTNM": "San Diego State University",
+    "ACTCMMID": 24,
+    "mdearn": 48700
+  },
+  {
+    "INSTNM": "San Francisco Art Institute",
+    "ACTCMMID": 25,
+    "mdearn": 24600
+  },
+  {
+    "INSTNM": "San Francisco State University",
+    "ACTCMMID": 22,
+    "mdearn": 46900
+  },
+  {
+    "INSTNM": "San Jose State University",
+    "ACTCMMID": 22,
+    "mdearn": 54600
+  },
+  {
+    "INSTNM": "Santa Clara University",
+    "ACTCMMID": 29,
+    "mdearn": 67700
+  },
+  {
+    "INSTNM": "Savannah College of Art and Design",
+    "ACTCMMID": 24,
+    "mdearn": 35400
+  },
+  {
+    "INSTNM": "Savannah State University",
+    "ACTCMMID": 18,
+    "mdearn": 30800
+  },
+  {
+    "INSTNM": "School of the Art Institute of Chicago",
+    "ACTCMMID": 23,
+    "mdearn": 31700
+  },
+  {
+    "INSTNM": "Scripps College",
+    "ACTCMMID": 31,
+    "mdearn": 47200
+  },
+  {
+    "INSTNM": "Shorter University",
+    "ACTCMMID": 21,
+    "mdearn": 43000
+  },
+  {
+    "INSTNM": "Simpson College",
+    "ACTCMMID": 24,
+    "mdearn": 45800
+  },
+  {
+    "INSTNM": "Simpson University",
+    "ACTCMMID": 22,
+    "mdearn": 33700
+  },
+  {
+    "INSTNM": "Sonoma State University",
+    "ACTCMMID": 22,
+    "mdearn": 45600
+  },
+  {
+    "INSTNM": "Southeastern Bible College",
+    "ACTCMMID": 21,
+    "mdearn": 28800
+  },
+  {
+    "INSTNM": "Southeastern Louisiana University",
+    "ACTCMMID": 22,
+    "mdearn": 35400
+  },
+  {
+    "INSTNM": "Southeastern University",
+    "ACTCMMID": 20,
+    "mdearn": 32600
+  },
+  {
+    "INSTNM": "Southern Arkansas University Main Campus",
+    "ACTCMMID": 21,
+    "mdearn": 35900
+  },
+  {
+    "INSTNM": "Southern Connecticut State University",
+    "ACTCMMID": 20,
+    "mdearn": 41700
+  },
+  {
+    "INSTNM": "Southern Illinois University-Carbondale",
+    "ACTCMMID": 22,
+    "mdearn": 41500
+  },
+  {
+    "INSTNM": "Southern Illinois University-Edwardsville",
+    "ACTCMMID": 23,
+    "mdearn": 39800
+  },
+  {
+    "INSTNM": "Southern Polytechnic State University",
+    "ACTCMMID": 24,
+    "mdearn": 52400
+  },
+  {
+    "INSTNM": "Southern University and A & M College",
+    "ACTCMMID": 19,
+    "mdearn": 31600
+  },
+  {
+    "INSTNM": "Southern University at New Orleans",
+    "ACTCMMID": 17,
+    "mdearn": 29000
+  },
+  {
+    "INSTNM": "Southwestern College",
+    "ACTCMMID": 23,
+    "mdearn": 44200
+  },
+  {
+    "INSTNM": "Spalding University",
+    "ACTCMMID": 20,
+    "mdearn": 40000
+  },
+  {
+    "INSTNM": "Spelman College",
+    "ACTCMMID": 22,
+    "mdearn": 46400
+  },
+  {
+    "INSTNM": "Spring Hill College",
+    "ACTCMMID": 24,
+    "mdearn": 43800
+  },
+  {
+    "INSTNM": "St Luke's College",
+    "ACTCMMID": 22,
+    "mdearn": 43200
+  },
+  {
+    "INSTNM": "St Thomas University",
+    "ACTCMMID": 19,
+    "mdearn": 42600
+  },
+  {
+    "INSTNM": "Sterling College",
+    "ACTCMMID": 22,
+    "mdearn": 32100
+  },
+  {
+    "INSTNM": "Stetson University",
+    "ACTCMMID": 26,
+    "mdearn": 42600
+  },
+  {
+    "INSTNM": "Stillman College",
+    "ACTCMMID": 19,
+    "mdearn": 24700
+  },
+  {
+    "INSTNM": "Tabor College",
+    "ACTCMMID": 23,
+    "mdearn": 34400
+  },
+  {
+    "INSTNM": "Taylor University",
+    "ACTCMMID": 28,
+    "mdearn": 38600
+  },
+  {
+    "INSTNM": "The Baptist College of Florida",
+    "ACTCMMID": 24,
+    "mdearn": 29900
+  },
+  {
+    "INSTNM": "The College of Idaho",
+    "ACTCMMID": 24,
+    "mdearn": 38900
+  },
+  {
+    "INSTNM": "The Master's College and Seminary",
+    "ACTCMMID": 25,
+    "mdearn": 40900
+  },
+  {
+    "INSTNM": "The University of Alabama",
+    "ACTCMMID": 26,
+    "mdearn": 42400
+  },
+  {
+    "INSTNM": "The University of Tampa",
+    "ACTCMMID": 24,
+    "mdearn": 44400
+  },
+  {
+    "INSTNM": "The University of West Florida",
+    "ACTCMMID": 24,
+    "mdearn": 36300
+  },
+  {
+    "INSTNM": "Thomas College",
+    "ACTCMMID": 19,
+    "mdearn": 36600
+  },
+  {
+    "INSTNM": "Thomas More College",
+    "ACTCMMID": 23,
+    "mdearn": 45800
+  },
+  {
+    "INSTNM": "Toccoa Falls College",
+    "ACTCMMID": 20,
+    "mdearn": 26400
+  },
+  {
+    "INSTNM": "Transylvania University",
+    "ACTCMMID": 27,
+    "mdearn": 41100
+  },
+  {
+    "INSTNM": "Trine University",
+    "ACTCMMID": 24,
+    "mdearn": 42600
+  },
+  {
+    "INSTNM": "Trinity Baptist College",
+    "ACTCMMID": 19,
+    "mdearn": 26700
+  },
+  {
+    "INSTNM": "Trinity Christian College",
+    "ACTCMMID": 23,
+    "mdearn": 41400
+  },
+  {
+    "INSTNM": "Trinity College",
+    "ACTCMMID": 27,
+    "mdearn": 56100
+  },
+  {
+    "INSTNM": "Trinity International University-Illinois",
+    "ACTCMMID": 23,
+    "mdearn": 38200
+  },
+  {
+    "INSTNM": "Troy University",
+    "ACTCMMID": 21,
+    "mdearn": 36600
+  },
+  {
+    "INSTNM": "Truett-McConnell College",
+    "ACTCMMID": 20,
+    "mdearn": 32400
+  },
+  {
+    "INSTNM": "Tulane University of Louisiana",
+    "ACTCMMID": 31,
+    "mdearn": 52400
+  },
+  {
+    "INSTNM": "Tuskegee University",
+    "ACTCMMID": 20,
+    "mdearn": 37100
+  },
+  {
+    "INSTNM": "Union College",
+    "ACTCMMID": 22,
+    "mdearn": 32500
+  },
+  {
+    "INSTNM": "University of Alabama at Birmingham",
+    "ACTCMMID": 25,
+    "mdearn": 40300
+  },
+  {
+    "INSTNM": "University of Alabama in Huntsville",
+    "ACTCMMID": 26,
+    "mdearn": 46600
+  },
+  {
+    "INSTNM": "University of Arizona",
+    "ACTCMMID": 24,
+    "mdearn": 44400
+  },
+  {
+    "INSTNM": "University of Arkansas",
+    "ACTCMMID": 26,
+    "mdearn": 43600
+  },
+  {
+    "INSTNM": "University of Arkansas at Little Rock",
+    "ACTCMMID": 24,
+    "mdearn": 34800
+  },
+  {
+    "INSTNM": "University of Arkansas at Pine Bluff",
+    "ACTCMMID": 18,
+    "mdearn": 27400
+  },
+  {
+    "INSTNM": "University of Arkansas Community College-Morrilton",
+    "ACTCMMID": 20,
+    "mdearn": 25600
+  },
+  {
+    "INSTNM": "University of Arkansas-Fort Smith",
+    "ACTCMMID": 22,
+    "mdearn": 29900
+  },
+  {
+    "INSTNM": "University of Bridgeport",
+    "ACTCMMID": 20,
+    "mdearn": 40600
+  },
+  {
+    "INSTNM": "University of California-Berkeley",
+    "ACTCMMID": 30,
+    "mdearn": 62700
+  },
+  {
+    "INSTNM": "University of California-Davis",
+    "ACTCMMID": 26,
+    "mdearn": 57100
+  },
+  {
+    "INSTNM": "University of California-Irvine",
+    "ACTCMMID": 24,
+    "mdearn": 55800
+  },
+  {
+    "INSTNM": "University of California-Los Angeles",
+    "ACTCMMID": 28,
+    "mdearn": 59200
+  },
+  {
+    "INSTNM": "University of California-Riverside",
+    "ACTCMMID": 23,
+    "mdearn": 48700
+  },
+  {
+    "INSTNM": "University of California-San Diego",
+    "ACTCMMID": 28,
+    "mdearn": 59600
+  },
+  {
+    "INSTNM": "University of California-Santa Barbara",
+    "ACTCMMID": 27,
+    "mdearn": 52000
+  },
+  {
+    "INSTNM": "University of California-Santa Cruz",
+    "ACTCMMID": 23,
+    "mdearn": 44600
+  },
+  {
+    "INSTNM": "University of Central Arkansas",
+    "ACTCMMID": 23,
+    "mdearn": 37100
+  },
+  {
+    "INSTNM": "University of Central Florida",
+    "ACTCMMID": 26,
+    "mdearn": 43000
+  },
+  {
+    "INSTNM": "University of Chicago",
+    "ACTCMMID": 34,
+    "mdearn": 62800
+  },
+  {
+    "INSTNM": "University of Colorado Boulder",
+    "ACTCMMID": 27,
+    "mdearn": 48000
+  },
+  {
+    "INSTNM": "University of Colorado Colorado Springs",
+    "ACTCMMID": 23,
+    "mdearn": 41200
+  },
+  {
+    "INSTNM": "University of Colorado Denver",
+    "ACTCMMID": 23,
+    "mdearn": 73800
+  },
+  {
+    "INSTNM": "University of Connecticut",
+    "ACTCMMID": 28,
+    "mdearn": 53900
+  },
+  {
+    "INSTNM": "University of Delaware",
+    "ACTCMMID": 27,
+    "mdearn": 54300
+  },
+  {
+    "INSTNM": "University of Denver",
+    "ACTCMMID": 28,
+    "mdearn": 51400
+  },
+  {
+    "INSTNM": "University of Dubuque",
+    "ACTCMMID": 20,
+    "mdearn": 36900
+  },
+  {
+    "INSTNM": "University of Evansville",
+    "ACTCMMID": 26,
+    "mdearn": 40000
+  },
+  {
+    "INSTNM": "University of Florida",
+    "ACTCMMID": 29,
+    "mdearn": 51300
+  },
+  {
+    "INSTNM": "University of Georgia",
+    "ACTCMMID": 28,
+    "mdearn": 46500
+  },
+  {
+    "INSTNM": "University of Hartford",
+    "ACTCMMID": 23,
+    "mdearn": 45900
+  },
+  {
+    "INSTNM": "University of Hawaii at Hilo",
+    "ACTCMMID": 21,
+    "mdearn": 34500
+  },
+  {
+    "INSTNM": "University of Hawaii at Manoa",
+    "ACTCMMID": 24,
+    "mdearn": 44300
+  },
+  {
+    "INSTNM": "University of Hawaii-West Oahu",
+    "ACTCMMID": 19,
+    "mdearn": 42300
+  },
+  {
+    "INSTNM": "University of Idaho",
+    "ACTCMMID": 23,
+    "mdearn": 39900
+  },
+  {
+    "INSTNM": "University of Illinois at Chicago",
+    "ACTCMMID": 24,
+    "mdearn": 51600
+  },
+  {
+    "INSTNM": "University of Illinois at Springfield",
+    "ACTCMMID": 24,
+    "mdearn": 41800
+  },
+  {
+    "INSTNM": "University of Illinois at Urbana-Champaign",
+    "ACTCMMID": 29,
+    "mdearn": 56600
+  },
+  {
+    "INSTNM": "University of Indianapolis",
+    "ACTCMMID": 22,
+    "mdearn": 41600
+  },
+  {
+    "INSTNM": "University of Iowa",
+    "ACTCMMID": 27,
+    "mdearn": 48700
+  },
+  {
+    "INSTNM": "University of Kansas",
+    "ACTCMMID": 25,
+    "mdearn": 44600
+  },
+  {
+    "INSTNM": "University of Kentucky",
+    "ACTCMMID": 25,
+    "mdearn": 41500
+  },
+  {
+    "INSTNM": "University of La Verne",
+    "ACTCMMID": 23,
+    "mdearn": 52700
+  },
+  {
+    "INSTNM": "University of Louisiana at Lafayette",
+    "ACTCMMID": 23,
+    "mdearn": 37900
+  },
+  {
+    "INSTNM": "University of Louisiana at Monroe",
+    "ACTCMMID": 23,
+    "mdearn": 35700
+  },
+  {
+    "INSTNM": "University of Louisville",
+    "ACTCMMID": 25,
+    "mdearn": 37700
+  },
+  {
+    "INSTNM": "University of Maine",
+    "ACTCMMID": 24,
+    "mdearn": 38700
+  },
+  {
+    "INSTNM": "University of Maine at Fort Kent",
+    "ACTCMMID": 23,
+    "mdearn": 31200
+  },
+  {
+    "INSTNM": "University of Maine at Machias",
+    "ACTCMMID": 22,
+    "mdearn": 27000
+  },
+  {
+    "INSTNM": "University of Miami",
+    "ACTCMMID": 30,
+    "mdearn": 52400
+  },
+  {
+    "INSTNM": "University of Mobile",
+    "ACTCMMID": 23,
+    "mdearn": 37800
+  },
+  {
+    "INSTNM": "University of Montevallo",
+    "ACTCMMID": 23,
+    "mdearn": 35100
+  },
+  {
+    "INSTNM": "University of New England",
+    "ACTCMMID": 24,
+    "mdearn": 44800
+  },
+  {
+    "INSTNM": "University of New Haven",
+    "ACTCMMID": 23,
+    "mdearn": 48900
+  },
+  {
+    "INSTNM": "University of New Orleans",
+    "ACTCMMID": 23,
+    "mdearn": 38400
+  },
+  {
+    "INSTNM": "University of North Alabama",
+    "ACTCMMID": 22,
+    "mdearn": 36300
+  },
+  {
+    "INSTNM": "University of North Florida",
+    "ACTCMMID": 25,
+    "mdearn": 41600
+  },
+  {
+    "INSTNM": "University of Northern Colorado",
+    "ACTCMMID": 22,
+    "mdearn": 39000
+  },
+  {
+    "INSTNM": "University of Northern Iowa",
+    "ACTCMMID": 22,
+    "mdearn": 41700
+  },
+  {
+    "INSTNM": "University of Notre Dame",
+    "ACTCMMID": 33,
+    "mdearn": 69400
+  },
+  {
+    "INSTNM": "University of Pikeville",
+    "ACTCMMID": 19,
+    "mdearn": 30400
+  },
+  {
+    "INSTNM": "University of Redlands",
+    "ACTCMMID": 25,
+    "mdearn": 53800
+  },
+  {
+    "INSTNM": "University of Saint Francis-Fort Wayne",
+    "ACTCMMID": 21,
+    "mdearn": 40000
+  },
+  {
+    "INSTNM": "University of Saint Joseph",
+    "ACTCMMID": 20,
+    "mdearn": 49700
+  },
+  {
+    "INSTNM": "University of Saint Mary",
+    "ACTCMMID": 22,
+    "mdearn": 39900
+  },
+  {
+    "INSTNM": "University of San Diego",
+    "ACTCMMID": 28,
+    "mdearn": 56300
+  },
+  {
+    "INSTNM": "University of San Francisco",
+    "ACTCMMID": 25,
+    "mdearn": 61000
+  },
+  {
+    "INSTNM": "University of South Alabama",
+    "ACTCMMID": 23,
+    "mdearn": 38300
+  },
+  {
+    "INSTNM": "University of South Florida-Main Campus",
+    "ACTCMMID": 26,
+    "mdearn": 41700
+  },
+  {
+    "INSTNM": "University of Southern California",
+    "ACTCMMID": 31,
+    "mdearn": 66100
+  },
+  {
+    "INSTNM": "University of Southern Indiana",
+    "ACTCMMID": 22,
+    "mdearn": 35500
+  },
+  {
+    "INSTNM": "University of Southern Maine",
+    "ACTCMMID": 23,
+    "mdearn": 36500
+  },
+  {
+    "INSTNM": "University of St Francis",
+    "ACTCMMID": 23,
+    "mdearn": 44600
+  },
+  {
+    "INSTNM": "University of the Cumberlands",
+    "ACTCMMID": 22,
+    "mdearn": 33300
+  },
+  {
+    "INSTNM": "University of the Ozarks",
+    "ACTCMMID": 23,
+    "mdearn": 31100
+  },
+  {
+    "INSTNM": "University of the Pacific",
+    "ACTCMMID": 26,
+    "mdearn": 66400
+  },
+  {
+    "INSTNM": "University of West Alabama",
+    "ACTCMMID": 20,
+    "mdearn": 33800
+  },
+  {
+    "INSTNM": "University of West Georgia",
+    "ACTCMMID": 20,
+    "mdearn": 36900
+  },
+  {
+    "INSTNM": "Upper Iowa University",
+    "ACTCMMID": 22,
+    "mdearn": 40300
+  },
+  {
+    "INSTNM": "Valdosta State University",
+    "ACTCMMID": 22,
+    "mdearn": 38000
+  },
+  {
+    "INSTNM": "Valparaiso University",
+    "ACTCMMID": 26,
+    "mdearn": 48100
+  },
+  {
+    "INSTNM": "Vanguard University of Southern California",
+    "ACTCMMID": 23,
+    "mdearn": 38800
+  },
+  {
+    "INSTNM": "Waldorf College",
+    "ACTCMMID": 21,
+    "mdearn": 36400
+  },
+  {
+    "INSTNM": "Warner University",
+    "ACTCMMID": 19,
+    "mdearn": 42200
+  },
+  {
+    "INSTNM": "Wartburg College",
+    "ACTCMMID": 24,
+    "mdearn": 43200
+  },
+  {
+    "INSTNM": "Webber International University",
+    "ACTCMMID": 21,
+    "mdearn": 35800
+  },
+  {
+    "INSTNM": "Wesley College",
+    "ACTCMMID": 20,
+    "mdearn": 41400
+  },
+  {
+    "INSTNM": "Wesleyan College",
+    "ACTCMMID": 20,
+    "mdearn": 37100
+  },
+  {
+    "INSTNM": "Wesleyan University",
+    "ACTCMMID": 31,
+    "mdearn": 50900
+  },
+  {
+    "INSTNM": "Western Illinois University",
+    "ACTCMMID": 21,
+    "mdearn": 41100
+  },
+  {
+    "INSTNM": "Western Kentucky University",
+    "ACTCMMID": 22,
+    "mdearn": 34600
+  },
+  {
+    "INSTNM": "Western State Colorado University",
+    "ACTCMMID": 22,
+    "mdearn": 36500
+  },
+  {
+    "INSTNM": "Westmont College",
+    "ACTCMMID": 27,
+    "mdearn": 48300
+  },
+  {
+    "INSTNM": "Wheaton College",
+    "ACTCMMID": 30,
+    "mdearn": 42600
+  },
+  {
+    "INSTNM": "Whittier College",
+    "ACTCMMID": 23,
+    "mdearn": 45100
+  },
+  {
+    "INSTNM": "Wichita State University",
+    "ACTCMMID": 24,
+    "mdearn": 39300
+  },
+  {
+    "INSTNM": "William Jessup University",
+    "ACTCMMID": 23,
+    "mdearn": 38600
+  },
+  {
+    "INSTNM": "William Penn University",
+    "ACTCMMID": 20,
+    "mdearn": 41200
+  },
+  {
+    "INSTNM": "Williams Baptist College",
+    "ACTCMMID": 22,
+    "mdearn": 32300
+  },
+  {
+    "INSTNM": "Woodbury University",
+    "ACTCMMID": 22,
+    "mdearn": 45600
+  },
+  {
+    "INSTNM": "Xavier University of Louisiana",
+    "ACTCMMID": 23,
+    "mdearn": 46500
+  },
+  {
+    "INSTNM": "Yale University",
+    "ACTCMMID": 34,
+    "mdearn": 66000
+  },
+  {
+    "INSTNM": "Young Harris College",
+    "ACTCMMID": 21,
+    "mdearn": 34100
+  }
+]

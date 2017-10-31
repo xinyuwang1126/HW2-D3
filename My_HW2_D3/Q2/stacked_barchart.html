@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>D3 Test</title>
+        <script type="text/javascript" src="../lib/d3/d3.v3.min.js"></script>
+    </head>
+    <body>
+        <script type="text/javascript">
+            // Your beautiful D3 code will go here
+            var dataset = [
+
+
+  { Year: "2007", year:  [       {
+    "District": "Bajhang",
+    "Year": 2007,
+    "Total": 1875
+  },
+  {
+    "District": "Dadeldhura",
+    "Year": 2007,
+    "Total": 1261
+  },
+  {
+    "District": "Arghakhanchi",
+    "Year": 2007,
+    "Total": 2063
+  },
+  {
+    "District": "Darchula",
+    "Year": 2007,
+    "Total": 1382
+  },
+  {
+    "District": "Chitwan",
+    "Year": 2007,
+    "Total": 1527
+  },
+  {
+    "District": "Khotang",
+    "Year": 2007,
+    "Total": 902
+  },
+  {
+    "District": "Sindhupalchok",
+    "Year": 2007,
+    "Total": 1802
+  },
+  {
+    "District": "Udayapur",
+    "Year": 2007,
+    "Total": 1924
+  },
+  {
+    "District": "Mugu",
+    "Year": 2007,
+    "Total": 468
+  }]},
+
+
+  {Year: "2008", year:  [{
+    "District": "Bajhang",
+    "Year": 2008,
+    "Total": 2011
+  },
+  {
+    "District": "Dadeldhura",
+    "Year": 2008,
+    "Total": 1419
+  },
+  {
+    "District": "Arghakhanchi",
+    "Year": 2008,
+    "Total": 1859
+  },
+  {
+    "District": "Darchula",
+    "Year": 2008,
+    "Total": 1483
+  },
+  {
+    "District": "Chitwan",
+    "Year": 2008,
+    "Total": 4468
+  },
+  {
+    "District": "Khotang",
+    "Year": 2008,
+    "Total": 2164
+  },
+  {
+    "District": "Sindhupalchok",
+    "Year": 2008,
+    "Total": 2699
+  },
+  {
+    "District": "Udayapur",
+    "Year": 2008,
+    "Total": 2230
+  },
+  {
+    "District": "Mugu",
+    "Year": 2008,
+    "Total": 486
+  }
+  ]},
+
+
+  {Year: "2009", year:  [{
+    "District": "Bajhang",
+    "Year": 2009,
+    "Total": 2284
+  },
+  {
+    "District": "Dadeldhura",
+    "Year": 2009,
+    "Total": 1702
+  },
+  {
+    "District": "Arghakhanchi",
+    "Year": 2009,
+    "Total": 2284
+  },
+  {
+    "District": "Darchula",
+    "Year": 2009,
+    "Total": 1505
+  },
+  {
+    "District": "Chitwan",
+    "Year": 2009,
+    "Total": 4634
+  },
+  {
+    "District": "Khotang",
+    "Year": 2009,
+    "Total": 2257
+  },
+  {
+    "District": "Sindhupalchok",
+    "Year": 2009,
+    "Total": 2699
+  },
+  {
+    "District": "Udayapur",
+    "Year": 2009,
+    "Total": 2230
+  },
+  {
+    "District": "Mugu",
+    "Year": 2009,
+    "Total": 486
+  }
+   ]},
+
+  {Year: "2010", year:  [{
+    "District": "Bajhang",
+    "Year": 2010,
+    "Total": 3066
+  },
+  {
+    "District": "Dadeldhura",
+    "Year": 2010,
+    "Total": 2021
+  },
+  {
+    "District": "Arghakhanchi",
+    "Year": 2010,
+    "Total": 2365
+  },
+  {
+    "District": "Darchula",
+    "Year": 2010,
+    "Total": 1838
+  },
+  {
+    "District": "Chitwan",
+    "Year": 2010,
+    "Total": 6488
+  },
+  {
+    "District": "Khotang",
+    "Year": 2010,
+    "Total": 2294
+  },
+  {
+    "District": "Sindhupalchok",
+    "Year": 2010,
+    "Total": 3201
+  },
+  {
+    "District": "Udayapur",
+    "Year": 2010,
+    "Total": 2908
+  },
+  {
+    "District": "Mugu",
+    "Year": 2010,
+    "Total": 589
+  }
+  ]},
+
+  {Year: "2011", year:  [{
+    "District": "Bajhang",
+    "Year": 2011,
+    "Total": 3104
+  },
+  {
+    "District": "Dadeldhura",
+    "Year": 2011,
+    "Total": 2061
+  },
+  {
+    "District": "Arghakhanchi",
+    "Year": 2011,
+    "Total": 2535
+  },
+  {
+    "District": "Darchula",
+    "Year": 2011,
+    "Total": 1957
+  },
+  {
+    "District": "Chitwan",
+    "Year": 2011,
+    "Total": 6488
+  },
+  {
+    "District": "Khotang",
+    "Year": 2011,
+    "Total": 2763
+  },
+  {
+    "District": "Sindhupalchok",
+    "Year": 2011,
+    "Total": 3460
+  },
+  {
+    "District": "Udayapur",
+    "Year": 2011,
+    "Total": 2988
+  },
+  {
+    "District": "Mugu",
+    "Year": 2011,
+    "Total": 682
+  }
+  ]}
+
+
+
+  
+
+
+
+  
+  ];
+
+
+
+            	var stack = d3.layout.stack()
+                    .values(function(d){ return d.year;})
+            				.x(function(d){ return d.District;})
+            				.y(function(d){ return d.Total;});
+
+            	var data = stack(dataset);
+            	console.log(data);
+
+              var width = 950;
+              var height = 500;
+              var svg = d3.select("body")
+                          .append("svg")
+                          .attr("width",width)
+                          .attr("height",height);
+
+              var padding = { left:50, right:100, top:30, bottom:30 };
+              var xRangeWidth = width - padding.left - padding.right;
+              var xScale = d3.scale.ordinal()
+                             .domain( data[0].year.map(function(d)
+                              { return d.District;
+                              }))
+                             .rangeBands([0, xRangeWidth],0.2);
+
+              var teachers = d3.max(data[data.length-1].year,
+                 function(d){
+                return d.y0 + d.y;
+              });
+              var yRangeWidth = height - padding.top - padding.bottom;
+              var yScale = d3.scale.linear()
+                             .domain([0,teachers])
+                             .range([0,yRangeWidth]);
+              var color = d3.scale.category10();
+              var groups = svg.selectAll("g")
+                              .data(data)
+                              .enter()
+                              .append("g")
+                              .style("fill",function(d,i){return color(i)});
+              var rects = groups.selectAll("rect")
+                              .data(function(d){ return d.year;})
+                              .enter()
+                              .append("rect")
+                              .attr("x",function(d){return xScale(d.District);})
+                              .attr("y", function(d){
+                                return yRangeWidth - yScale (d.y0 + d.y);
+                              })
+                              .attr("width",function(d){
+                                return xScale.rangeBand();
+                              })
+                              .attr("height",function(d){return yScale(d.y);})
+                              .attr("transform","translate(" + padding.left + "," +padding.top + ")");
+
+  var labHeight = 25;
+  var labRadius = 16;
+  
+  var labelRect = groups.append("rect")
+            .attr("x",function(d){ return width - padding.right*0.98; })
+            .attr("y",function(d,i){ return padding.top * 1.8 + labHeight * i; })
+            .attr("width",labRadius)
+            .attr("height",labRadius);
+          
+  var labelText = groups.append("text")
+            .attr("x",function(d){ return width - padding.right*0.8; })
+            .attr("y",function(d,i){ return padding.top * 2 + labHeight * i; })
+            .attr("dy",labRadius/2)
+            .text(function(d){ return d.Year; });
+
+  var xAxis = d3.svg.axis()
+        .scale(xScale)
+        .orient("bottom");
+    
+  yScale.range([yRangeWidth, 0]);
+  
+  var yAxis = d3.svg.axis()
+          .scale(yScale)
+          .orient("left");
+          
+  svg.append("g")
+      .attr("class","axis")
+      .attr("transform","translate(" + padding.left + "," + (height - padding.bottom) +  ")")
+      .call(xAxis);
+        
+  svg.append("g")
+      .attr("class","axis")
+      .attr("transform","translate(" + padding.left + "," + (height - padding.bottom - yRangeWidth) +  ")")
+      .call(yAxis); 
+
+
+
+
+
+           
+
+
+
+
+
+
+        </script>
+    </body>
+</html>  

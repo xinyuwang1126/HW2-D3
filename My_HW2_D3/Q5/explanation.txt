@@ -1,0 +1,1 @@
+In q5(1), X-axis represents median ACT score and Y-axis represents median salary.It indicates the relationship between score and salary. Students can know how hard they should work. In q5(2), X-axis is average loan. It can help students estimate if it's necessary to borrow a lot of money.

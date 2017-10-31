@@ -1,0 +1,1432 @@
+[
+  {
+    "INSTNM": "Academy of Art University",
+    "GRAD_DEBT_MDN": 34000,
+    "mdearn": 36100
+  },
+  {
+    "INSTNM": "Alabama A & M University",
+    "GRAD_DEBT_MDN": 33611.5,
+    "mdearn": 31400
+  },
+  {
+    "INSTNM": "Alabama State University",
+    "GRAD_DEBT_MDN": 33452,
+    "mdearn": 27800
+  },
+  {
+    "INSTNM": "Alaska Career College",
+    "GRAD_DEBT_MDN": 9500,
+    "mdearn": 30900
+  },
+  {
+    "INSTNM": "Alaska Pacific University",
+    "GRAD_DEBT_MDN": 25125,
+    "mdearn": 47400
+  },
+  {
+    "INSTNM": "Alliant International University",
+    "GRAD_DEBT_MDN": 2000,
+    "mdearn": 51800
+  },
+  {
+    "INSTNM": "Alliant International University-Fresno",
+    "GRAD_DEBT_MDN": 2000,
+    "mdearn": 51800
+  },
+  {
+    "INSTNM": "Alliant International University-Irvine",
+    "GRAD_DEBT_MDN": 2000,
+    "mdearn": 51800
+  },
+  {
+    "INSTNM": "Alliant International University-Los Angeles",
+    "GRAD_DEBT_MDN": 2000,
+    "mdearn": 51800
+  },
+  {
+    "INSTNM": "Alliant International University-Sacramento",
+    "GRAD_DEBT_MDN": 2000,
+    "mdearn": 51800
+  },
+  {
+    "INSTNM": "Alliant International University-San Francisco",
+    "GRAD_DEBT_MDN": 2000,
+    "mdearn": 51800
+  },
+  {
+    "INSTNM": "American Academy of Dramatic Arts-Los Angeles",
+    "GRAD_DEBT_MDN": 13240,
+    "mdearn": 30200
+  },
+  {
+    "INSTNM": "American Career College-Los Angeles",
+    "GRAD_DEBT_MDN": 9500,
+    "mdearn": 29800
+  },
+  {
+    "INSTNM": "American Institute of Technology",
+    "GRAD_DEBT_MDN": 6215,
+    "mdearn": 30700
+  },
+  {
+    "INSTNM": "American River College",
+    "GRAD_DEBT_MDN": 11407.5,
+    "mdearn": 27600
+  },
+  {
+    "INSTNM": "Antelope Valley College",
+    "GRAD_DEBT_MDN": 15000,
+    "mdearn": 27000
+  },
+  {
+    "INSTNM": "Anthem College-Phoenix",
+    "GRAD_DEBT_MDN": 14024,
+    "mdearn": 29500
+  },
+  {
+    "INSTNM": "Arizona Academy of Beauty-East",
+    "GRAD_DEBT_MDN": 5975,
+    "mdearn": 17600
+  },
+  {
+    "INSTNM": "Arizona Automotive Institute",
+    "GRAD_DEBT_MDN": 13000,
+    "mdearn": 33900
+  },
+  {
+    "INSTNM": "Arizona Christian University",
+    "GRAD_DEBT_MDN": 22625,
+    "mdearn": 31000
+  },
+  {
+    "INSTNM": "Arizona State University-Tempe",
+    "GRAD_DEBT_MDN": 20375,
+    "mdearn": 45200
+  },
+  {
+    "INSTNM": "Arizona Western College",
+    "GRAD_DEBT_MDN": 6000,
+    "mdearn": 25600
+  },
+  {
+    "INSTNM": "Arkansas Baptist College",
+    "GRAD_DEBT_MDN": 38125,
+    "mdearn": 21100
+  },
+  {
+    "INSTNM": "Arkansas College of Barbering and Hair Design",
+    "GRAD_DEBT_MDN": 12619.5,
+    "mdearn": 16900
+  },
+  {
+    "INSTNM": "Arkansas College of Barbering and Hair Design",
+    "GRAD_DEBT_MDN": 12619.5,
+    "mdearn": 16900
+  },
+  {
+    "INSTNM": "Arkansas State University-Main Campus",
+    "GRAD_DEBT_MDN": 20959,
+    "mdearn": 32700
+  },
+  {
+    "INSTNM": "Arkansas Tech University",
+    "GRAD_DEBT_MDN": 17528,
+    "mdearn": 35000
+  },
+  {
+    "INSTNM": "Art Center College of Design",
+    "GRAD_DEBT_MDN": 36187,
+    "mdearn": 51700
+  },
+  {
+    "INSTNM": "Arthur's Beauty College Inc-Fort Smith",
+    "GRAD_DEBT_MDN": 7400,
+    "mdearn": 15000
+  },
+  {
+    "INSTNM": "Arthur's Beauty College Inc-Jacksonville",
+    "GRAD_DEBT_MDN": 9900,
+    "mdearn": 15400
+  },
+  {
+    "INSTNM": "Associated Technical College-Los Angeles",
+    "GRAD_DEBT_MDN": 9000,
+    "mdearn": 21900
+  },
+  {
+    "INSTNM": "Associated Technical College-San Diego",
+    "GRAD_DEBT_MDN": 9500,
+    "mdearn": 19500
+  },
+  {
+    "INSTNM": "Athens State University",
+    "GRAD_DEBT_MDN": 18832,
+    "mdearn": 39700
+  },
+  {
+    "INSTNM": "Auburn University",
+    "GRAD_DEBT_MDN": 22250,
+    "mdearn": 45400
+  },
+  {
+    "INSTNM": "Auburn University at Montgomery",
+    "GRAD_DEBT_MDN": 21791,
+    "mdearn": 34800
+  },
+  {
+    "INSTNM": "Avalon School of Cosmetology-Alameda",
+    "GRAD_DEBT_MDN": 11944,
+    "mdearn": 16200
+  },
+  {
+    "INSTNM": "Avalon School of Cosmetology-Mesa",
+    "GRAD_DEBT_MDN": 12907,
+    "mdearn": 17900
+  },
+  {
+    "INSTNM": "AVTEC-Alaska's Institute of Technology",
+    "GRAD_DEBT_MDN": 5583,
+    "mdearn": 30100
+  },
+  {
+    "INSTNM": "Azusa Pacific University",
+    "GRAD_DEBT_MDN": 25000,
+    "mdearn": 49000
+  },
+  {
+    "INSTNM": "Bakersfield College",
+    "GRAD_DEBT_MDN": 13388,
+    "mdearn": 29700
+  },
+  {
+    "INSTNM": "Baptist Health Schools-Little Rock",
+    "GRAD_DEBT_MDN": 14750,
+    "mdearn": 42100
+  },
+  {
+    "INSTNM": "Bellus Academy-El Cajon",
+    "GRAD_DEBT_MDN": 10556,
+    "mdearn": 17000
+  },
+  {
+    "INSTNM": "Bellus Academy-National City",
+    "GRAD_DEBT_MDN": 16772.5,
+    "mdearn": 14800
+  },
+  {
+    "INSTNM": "Biola University",
+    "GRAD_DEBT_MDN": 23969,
+    "mdearn": 40700
+  },
+  {
+    "INSTNM": "Birmingham Southern College",
+    "GRAD_DEBT_MDN": 27000,
+    "mdearn": 41900
+  },
+  {
+    "INSTNM": "Black River Technical College",
+    "GRAD_DEBT_MDN": 10559,
+    "mdearn": 26600
+  },
+  {
+    "INSTNM": "Brillare Hairdressing Academy",
+    "GRAD_DEBT_MDN": 11789,
+    "mdearn": 19900
+  },
+  {
+    "INSTNM": "Brookline College-Phoenix",
+    "GRAD_DEBT_MDN": 9500,
+    "mdearn": 22300
+  },
+  {
+    "INSTNM": "Brooks Institute",
+    "GRAD_DEBT_MDN": 31000,
+    "mdearn": 29100
+  },
+  {
+    "INSTNM": "Brown Mackie College-Tucson",
+    "GRAD_DEBT_MDN": 21599,
+    "mdearn": 25200
+  },
+  {
+    "INSTNM": "Bryan University",
+    "GRAD_DEBT_MDN": 20000,
+    "mdearn": 42300
+  },
+  {
+    "INSTNM": "Butte College",
+    "GRAD_DEBT_MDN": 13500,
+    "mdearn": 29800
+  },
+  {
+    "INSTNM": "Cabrillo College",
+    "GRAD_DEBT_MDN": 15406,
+    "mdearn": 32100
+  },
+  {
+    "INSTNM": "California Baptist University",
+    "GRAD_DEBT_MDN": 27686.5,
+    "mdearn": 41800
+  },
+  {
+    "INSTNM": "California College of the Arts",
+    "GRAD_DEBT_MDN": 27000,
+    "mdearn": 35700
+  },
+  {
+    "INSTNM": "California College San Diego",
+    "GRAD_DEBT_MDN": 25903,
+    "mdearn": 40400
+  },
+  {
+    "INSTNM": "California Hair Design Academy",
+    "GRAD_DEBT_MDN": 7500,
+    "mdearn": 16500
+  },
+  {
+    "INSTNM": "California Institute of Technology",
+    "GRAD_DEBT_MDN": 18348.5,
+    "mdearn": 74000
+  },
+  {
+    "INSTNM": "California Institute of the Arts",
+    "GRAD_DEBT_MDN": 29400,
+    "mdearn": 32500
+  },
+  {
+    "INSTNM": "California Lutheran University",
+    "GRAD_DEBT_MDN": 23000,
+    "mdearn": 52900
+  },
+  {
+    "INSTNM": "California Maritime Academy",
+    "GRAD_DEBT_MDN": 26000,
+    "mdearn": 81100
+  },
+  {
+    "INSTNM": "California Polytechnic State University-San Luis Obispo",
+    "GRAD_DEBT_MDN": 19500,
+    "mdearn": 60900
+  },
+  {
+    "INSTNM": "California State Polytechnic University-Pomona",
+    "GRAD_DEBT_MDN": 18001,
+    "mdearn": 52000
+  },
+  {
+    "INSTNM": "California State University-Bakersfield",
+    "GRAD_DEBT_MDN": 16174.5,
+    "mdearn": 48100
+  },
+  {
+    "INSTNM": "California State University-Chico",
+    "GRAD_DEBT_MDN": 16500,
+    "mdearn": 45100
+  },
+  {
+    "INSTNM": "California State University-Dominguez Hills",
+    "GRAD_DEBT_MDN": 17201.5,
+    "mdearn": 42800
+  },
+  {
+    "INSTNM": "California State University-East Bay",
+    "GRAD_DEBT_MDN": 16312,
+    "mdearn": 51300
+  },
+  {
+    "INSTNM": "California State University-Fresno",
+    "GRAD_DEBT_MDN": 16500,
+    "mdearn": 43200
+  },
+  {
+    "INSTNM": "California State University-Fullerton",
+    "GRAD_DEBT_MDN": 14718,
+    "mdearn": 46500
+  },
+  {
+    "INSTNM": "California State University-Long Beach",
+    "GRAD_DEBT_MDN": 15775,
+    "mdearn": 46900
+  },
+  {
+    "INSTNM": "California State University-Los Angeles",
+    "GRAD_DEBT_MDN": 14125,
+    "mdearn": 44900
+  },
+  {
+    "INSTNM": "California State University-Northridge",
+    "GRAD_DEBT_MDN": 15000,
+    "mdearn": 44200
+  },
+  {
+    "INSTNM": "California State University-Sacramento",
+    "GRAD_DEBT_MDN": 17250,
+    "mdearn": 46500
+  },
+  {
+    "INSTNM": "California State University-San Bernardino",
+    "GRAD_DEBT_MDN": 18482,
+    "mdearn": 45500
+  },
+  {
+    "INSTNM": "California State University-Stanislaus",
+    "GRAD_DEBT_MDN": 16500,
+    "mdearn": 44900
+  },
+  {
+    "INSTNM": "Career Academy of Beauty",
+    "GRAD_DEBT_MDN": 6333,
+    "mdearn": 18400
+  },
+  {
+    "INSTNM": "Career Academy of Hair Design",
+    "GRAD_DEBT_MDN": 9855,
+    "mdearn": "PrivacySuppressed"
+  },
+  {
+    "INSTNM": "Career Academy of Hair Design-Rogers",
+    "GRAD_DEBT_MDN": 9855,
+    "mdearn": "PrivacySuppressed"
+  },
+  {
+    "INSTNM": "Career Academy of Hair Design-Siloam Springs",
+    "GRAD_DEBT_MDN": 9855,
+    "mdearn": "PrivacySuppressed"
+  },
+  {
+    "INSTNM": "Carrington College-Mesa",
+    "GRAD_DEBT_MDN": 9500,
+    "mdearn": 26200
+  },
+  {
+    "INSTNM": "Carrington College-Phoenix",
+    "GRAD_DEBT_MDN": 9500,
+    "mdearn": 26200
+  },
+  {
+    "INSTNM": "Carrington College-Tucson",
+    "GRAD_DEBT_MDN": 9500,
+    "mdearn": 26200
+  },
+  {
+    "INSTNM": "Casa Loma College-Hawthorne",
+    "GRAD_DEBT_MDN": 16862,
+    "mdearn": 47400
+  },
+  {
+    "INSTNM": "Casa Loma College-Van Nuys",
+    "GRAD_DEBT_MDN": 16862,
+    "mdearn": 47400
+  },
+  {
+    "INSTNM": "Central Arizona College",
+    "GRAD_DEBT_MDN": 10500,
+    "mdearn": 28700
+  },
+  {
+    "INSTNM": "Central Baptist College",
+    "GRAD_DEBT_MDN": 20501,
+    "mdearn": 35700
+  },
+  {
+    "INSTNM": "Cerritos College",
+    "GRAD_DEBT_MDN": 7250,
+    "mdearn": 31400
+  },
+  {
+    "INSTNM": "CET-El Centro",
+    "GRAD_DEBT_MDN": 5450,
+    "mdearn": 21600
+  },
+  {
+    "INSTNM": "CET-Gilroy",
+    "GRAD_DEBT_MDN": 5450,
+    "mdearn": 21600
+  },
+  {
+    "INSTNM": "CET-Salinas",
+    "GRAD_DEBT_MDN": 5450,
+    "mdearn": 21600
+  },
+  {
+    "INSTNM": "CET-San Bernardino",
+    "GRAD_DEBT_MDN": 5450,
+    "mdearn": 21600
+  },
+  {
+    "INSTNM": "CET-San Diego",
+    "GRAD_DEBT_MDN": 5450,
+    "mdearn": 21600
+  },
+  {
+    "INSTNM": "CET-Sobrato",
+    "GRAD_DEBT_MDN": 5450,
+    "mdearn": 21600
+  },
+  {
+    "INSTNM": "CET-Watsonville",
+    "GRAD_DEBT_MDN": 5450,
+    "mdearn": 21600
+  },
+  {
+    "INSTNM": "Chabot College",
+    "GRAD_DEBT_MDN": 10250,
+    "mdearn": 32900
+  },
+  {
+    "INSTNM": "Chapman University",
+    "GRAD_DEBT_MDN": 20250,
+    "mdearn": 51800
+  },
+  {
+    "INSTNM": "Charles of Italy Beauty College",
+    "GRAD_DEBT_MDN": 7389,
+    "mdearn": 16500
+  },
+  {
+    "INSTNM": "Charles R Drew University of Medicine and Science",
+    "GRAD_DEBT_MDN": 30000,
+    "mdearn": 63000
+  },
+  {
+    "INSTNM": "Charter College-Anchorage",
+    "GRAD_DEBT_MDN": 13000,
+    "mdearn": 42000
+  },
+  {
+    "INSTNM": "Chattahoochee Valley Community College",
+    "GRAD_DEBT_MDN": 7000,
+    "mdearn": 27700
+  },
+  {
+    "INSTNM": "Citrus College",
+    "GRAD_DEBT_MDN": 6852,
+    "mdearn": 29100
+  },
+  {
+    "INSTNM": "City College of San Francisco",
+    "GRAD_DEBT_MDN": 10500,
+    "mdearn": 36900
+  },
+  {
+    "INSTNM": "Claremont McKenna College",
+    "GRAD_DEBT_MDN": 14000,
+    "mdearn": 63600
+  },
+  {
+    "INSTNM": "Coastline Community College",
+    "GRAD_DEBT_MDN": 8000,
+    "mdearn": 30500
+  },
+  {
+    "INSTNM": "Cochise College",
+    "GRAD_DEBT_MDN": 8468,
+    "mdearn": 31200
+  },
+  {
+    "INSTNM": "Cogswell College",
+    "GRAD_DEBT_MDN": 32875,
+    "mdearn": 48500
+  },
+  {
+    "INSTNM": "Coleman University",
+    "GRAD_DEBT_MDN": 29177,
+    "mdearn": 49200
+  },
+  {
+    "INSTNM": "College of the Canyons",
+    "GRAD_DEBT_MDN": 10500,
+    "mdearn": 34200
+  },
+  {
+    "INSTNM": "College of the Desert",
+    "GRAD_DEBT_MDN": 9000,
+    "mdearn": 29700
+  },
+  {
+    "INSTNM": "College of the Ouachitas",
+    "GRAD_DEBT_MDN": 9250,
+    "mdearn": 24100
+  },
+  {
+    "INSTNM": "Collins College",
+    "GRAD_DEBT_MDN": 42103,
+    "mdearn": 25200
+  },
+  {
+    "INSTNM": "Columbia College-Hollywood",
+    "GRAD_DEBT_MDN": 31000,
+    "mdearn": "PrivacySuppressed"
+  },
+  {
+    "INSTNM": "Concordia College Alabama",
+    "GRAD_DEBT_MDN": 26500,
+    "mdearn": 21300
+  },
+  {
+    "INSTNM": "Concordia University-Irvine",
+    "GRAD_DEBT_MDN": 21500,
+    "mdearn": 42100
+  },
+  {
+    "INSTNM": "Cortiva Institute-Scottsdale",
+    "GRAD_DEBT_MDN": 7917,
+    "mdearn": 25400
+  },
+  {
+    "INSTNM": "Cortiva Institute-Tucson",
+    "GRAD_DEBT_MDN": 7875,
+    "mdearn": 21800
+  },
+  {
+    "INSTNM": "Cosumnes River College",
+    "GRAD_DEBT_MDN": 10000,
+    "mdearn": 28000
+  },
+  {
+    "INSTNM": "Cuesta College",
+    "GRAD_DEBT_MDN": 9500,
+    "mdearn": 32900
+  },
+  {
+    "INSTNM": "Cypress College",
+    "GRAD_DEBT_MDN": 9000,
+    "mdearn": 33000
+  },
+  {
+    "INSTNM": "Design Institute of San Diego",
+    "GRAD_DEBT_MDN": 38087,
+    "mdearn": 33900
+  },
+  {
+    "INSTNM": "Dominican University of California",
+    "GRAD_DEBT_MDN": 27000,
+    "mdearn": 51400
+  },
+  {
+    "INSTNM": "East Arkansas Community College",
+    "GRAD_DEBT_MDN": 3197,
+    "mdearn": 23100
+  },
+  {
+    "INSTNM": "Eastern College of Health Vocations-Little Rock",
+    "GRAD_DEBT_MDN": 3888,
+    "mdearn": 19700
+  },
+  {
+    "INSTNM": "El Camino College-Compton Center",
+    "GRAD_DEBT_MDN": 5812,
+    "mdearn": 30200
+  },
+  {
+    "INSTNM": "El Camino Community College District",
+    "GRAD_DEBT_MDN": 5812,
+    "mdearn": 30200
+  },
+  {
+    "INSTNM": "Embry-Riddle Aeronautical University-Prescott",
+    "GRAD_DEBT_MDN": 26000,
+    "mdearn": 60900
+  },
+  {
+    "INSTNM": "Empire Beauty School-Chandler",
+    "GRAD_DEBT_MDN": 8167,
+    "mdearn": 16900
+  },
+  {
+    "INSTNM": "Empire Beauty School-Flagstaff",
+    "GRAD_DEBT_MDN": 8167,
+    "mdearn": 16900
+  },
+  {
+    "INSTNM": "Empire Beauty School-NW Phoenix",
+    "GRAD_DEBT_MDN": 9083,
+    "mdearn": 19200
+  },
+  {
+    "INSTNM": "Empire Beauty School-Paradise Valley",
+    "GRAD_DEBT_MDN": 9522,
+    "mdearn": 19300
+  },
+  {
+    "INSTNM": "Empire Beauty School-Tucson",
+    "GRAD_DEBT_MDN": 9046.5,
+    "mdearn": 16400
+  },
+  {
+    "INSTNM": "Empire College School of Business",
+    "GRAD_DEBT_MDN": 16500,
+    "mdearn": 34500
+  },
+  {
+    "INSTNM": "Enterprise State Community College",
+    "GRAD_DEBT_MDN": 11073,
+    "mdearn": 26300
+  },
+  {
+    "INSTNM": "Everest College-Hayward",
+    "GRAD_DEBT_MDN": 9500,
+    "mdearn": 21400
+  },
+  {
+    "INSTNM": "Everest College-Phoenix",
+    "GRAD_DEBT_MDN": 9500,
+    "mdearn": 28300
+  },
+  {
+    "INSTNM": "Evergreen Valley College",
+    "GRAD_DEBT_MDN": 9500,
+    "mdearn": 32700
+  },
+  {
+    "INSTNM": "Fashion Institute of Design & Merchandising-Los Angeles",
+    "GRAD_DEBT_MDN": 12000,
+    "mdearn": 34500
+  },
+  {
+    "INSTNM": "Fashion Institute of Design & Merchandising-Orange County",
+    "GRAD_DEBT_MDN": 12000,
+    "mdearn": 34500
+  },
+  {
+    "INSTNM": "Fashion Institute of Design & Merchandising-San Francisco",
+    "GRAD_DEBT_MDN": 12000,
+    "mdearn": 34500
+  },
+  {
+    "INSTNM": "Faulkner University",
+    "GRAD_DEBT_MDN": 23750,
+    "mdearn": 37600
+  },
+  {
+    "INSTNM": "Feather River Community College District",
+    "GRAD_DEBT_MDN": 8000,
+    "mdearn": 26900
+  },
+  {
+    "INSTNM": "Federico Beauty Institute",
+    "GRAD_DEBT_MDN": 9429,
+    "mdearn": 21000
+  },
+  {
+    "INSTNM": "Foothill College",
+    "GRAD_DEBT_MDN": 10500,
+    "mdearn": 47600
+  },
+  {
+    "INSTNM": "Fresno City College",
+    "GRAD_DEBT_MDN": 4500,
+    "mdearn": 26000
+  },
+  {
+    "INSTNM": "Fresno Pacific University",
+    "GRAD_DEBT_MDN": 19205,
+    "mdearn": 39700
+  },
+  {
+    "INSTNM": "GateWay Community College",
+    "GRAD_DEBT_MDN": 6946,
+    "mdearn": 29800
+  },
+  {
+    "INSTNM": "Gavilan College",
+    "GRAD_DEBT_MDN": 9998.5,
+    "mdearn": 26900
+  },
+  {
+    "INSTNM": "Gemological Institute of America-Carlsbad",
+    "GRAD_DEBT_MDN": 9516,
+    "mdearn": 38800
+  },
+  {
+    "INSTNM": "George C Wallace State Community College-Hanceville",
+    "GRAD_DEBT_MDN": 11330,
+    "mdearn": 27800
+  },
+  {
+    "INSTNM": "Glendale Career College",
+    "GRAD_DEBT_MDN": 11542.5,
+    "mdearn": 27800
+  },
+  {
+    "INSTNM": "Golden Gate University-Los Angeles",
+    "GRAD_DEBT_MDN": 28117.5,
+    "mdearn": 64200
+  },
+  {
+    "INSTNM": "Golden Gate University-San Francisco",
+    "GRAD_DEBT_MDN": 28117.5,
+    "mdearn": 64200
+  },
+  {
+    "INSTNM": "Golden Gate University-Seattle",
+    "GRAD_DEBT_MDN": 28117.5,
+    "mdearn": 64200
+  },
+  {
+    "INSTNM": "Golden Gate University-Silicon Valley",
+    "GRAD_DEBT_MDN": 28117.5,
+    "mdearn": 64200
+  },
+  {
+    "INSTNM": "Golden West College",
+    "GRAD_DEBT_MDN": 7054,
+    "mdearn": 31700
+  },
+  {
+    "INSTNM": "Grand Canyon University",
+    "GRAD_DEBT_MDN": 18750,
+    "mdearn": 45200
+  },
+  {
+    "INSTNM": "Grossmont College",
+    "GRAD_DEBT_MDN": 4500,
+    "mdearn": 32300
+  },
+  {
+    "INSTNM": "Harding School of Theology",
+    "GRAD_DEBT_MDN": 26250,
+    "mdearn": 38600
+  },
+  {
+    "INSTNM": "Harding University",
+    "GRAD_DEBT_MDN": 26250,
+    "mdearn": 38600
+  },
+  {
+    "INSTNM": "Harvey Mudd College",
+    "GRAD_DEBT_MDN": 25696,
+    "mdearn": 78600
+  },
+  {
+    "INSTNM": "Heald College-Concord",
+    "GRAD_DEBT_MDN": 11250,
+    "mdearn": 40000
+  },
+  {
+    "INSTNM": "Heald College-Fresno",
+    "GRAD_DEBT_MDN": 11250,
+    "mdearn": 30100
+  },
+  {
+    "INSTNM": "Heald College-Rancho Cordova",
+    "GRAD_DEBT_MDN": 11250,
+    "mdearn": 35200
+  },
+  {
+    "INSTNM": "Heald College-San Francisco",
+    "GRAD_DEBT_MDN": 11250,
+    "mdearn": 37400
+  },
+  {
+    "INSTNM": "Heald College-San Jose",
+    "GRAD_DEBT_MDN": 11250,
+    "mdearn": 42100
+  },
+  {
+    "INSTNM": "Henderson State University",
+    "GRAD_DEBT_MDN": 20191,
+    "mdearn": 35200
+  },
+  {
+    "INSTNM": "Hendrix College",
+    "GRAD_DEBT_MDN": 24924,
+    "mdearn": 40500
+  },
+  {
+    "INSTNM": "Herzing University-Birmingham",
+    "GRAD_DEBT_MDN": 22822,
+    "mdearn": 42300
+  },
+  {
+    "INSTNM": "Holy Names University",
+    "GRAD_DEBT_MDN": 30750,
+    "mdearn": 50100
+  },
+  {
+    "INSTNM": "Humboldt State University",
+    "GRAD_DEBT_MDN": 20250,
+    "mdearn": 36200
+  },
+  {
+    "INSTNM": "Humphreys College-Modesto",
+    "GRAD_DEBT_MDN": 29168,
+    "mdearn": 31300
+  },
+  {
+    "INSTNM": "Humphreys College-Stockton and Modesto Campuses",
+    "GRAD_DEBT_MDN": 29168,
+    "mdearn": 31300
+  },
+  {
+    "INSTNM": "Huntingdon College",
+    "GRAD_DEBT_MDN": 27000,
+    "mdearn": 37100
+  },
+  {
+    "INSTNM": "Institute for Business and Technology",
+    "GRAD_DEBT_MDN": 8023,
+    "mdearn": 35500
+  },
+  {
+    "INSTNM": "Interior Designers Institute",
+    "GRAD_DEBT_MDN": 32000,
+    "mdearn": 25200
+  },
+  {
+    "INSTNM": "International Academy of Hair Design",
+    "GRAD_DEBT_MDN": 11833,
+    "mdearn": 20100
+  },
+  {
+    "INSTNM": "Irvine Valley College",
+    "GRAD_DEBT_MDN": 10000,
+    "mdearn": 35200
+  },
+  {
+    "INSTNM": "ITT Technical Institute-National City",
+    "GRAD_DEBT_MDN": 25833.5,
+    "mdearn": 38400
+  },
+  {
+    "INSTNM": "ITT Technical Institute-Orange",
+    "GRAD_DEBT_MDN": 25833.5,
+    "mdearn": 38400
+  },
+  {
+    "INSTNM": "ITT Technical Institute-Rancho Cordova",
+    "GRAD_DEBT_MDN": 25833.5,
+    "mdearn": 38400
+  },
+  {
+    "INSTNM": "ITT Technical Institute-San Dimas",
+    "GRAD_DEBT_MDN": 25833.5,
+    "mdearn": 38400
+  },
+  {
+    "INSTNM": "ITT Technical Institute-Tempe",
+    "GRAD_DEBT_MDN": 25833.5,
+    "mdearn": 38400
+  },
+  {
+    "INSTNM": "ITT Technical Institute-Tucson",
+    "GRAD_DEBT_MDN": 25833.5,
+    "mdearn": 38400
+  },
+  {
+    "INSTNM": "Jacksonville State University",
+    "GRAD_DEBT_MDN": 23500,
+    "mdearn": 35100
+  },
+  {
+    "INSTNM": "James H Faulkner State Community College",
+    "GRAD_DEBT_MDN": 9153,
+    "mdearn": 28900
+  },
+  {
+    "INSTNM": "Jefferson Regional Medical Center School of Nursing",
+    "GRAD_DEBT_MDN": 16246,
+    "mdearn": "PrivacySuppressed"
+  },
+  {
+    "INSTNM": "Jefferson State Community College",
+    "GRAD_DEBT_MDN": 10000,
+    "mdearn": 30300
+  },
+  {
+    "INSTNM": "John Brown University",
+    "GRAD_DEBT_MDN": 22500,
+    "mdearn": 46200
+  },
+  {
+    "INSTNM": "John C Calhoun State Community College",
+    "GRAD_DEBT_MDN": 9940,
+    "mdearn": 27200
+  },
+  {
+    "INSTNM": "John F Kennedy University",
+    "GRAD_DEBT_MDN": 25000,
+    "mdearn": 39500
+  },
+  {
+    "INSTNM": "Kaplan College-Phoenix",
+    "GRAD_DEBT_MDN": 12594,
+    "mdearn": 26300
+  },
+  {
+    "INSTNM": "Laguna College of Art and Design",
+    "GRAD_DEBT_MDN": 29500,
+    "mdearn": 39800
+  },
+  {
+    "INSTNM": "Le Cordon Bleu College of Culinary Arts-San Francisco",
+    "GRAD_DEBT_MDN": 12136,
+    "mdearn": 32800
+  },
+  {
+    "INSTNM": "Life Pacific College",
+    "GRAD_DEBT_MDN": 20600,
+    "mdearn": 31200
+  },
+  {
+    "INSTNM": "Lyon College",
+    "GRAD_DEBT_MDN": 25000,
+    "mdearn": 37200
+  },
+  {
+    "INSTNM": "Marinello Schools of Beauty-Burbank",
+    "GRAD_DEBT_MDN": 10481,
+    "mdearn": 12600
+  },
+  {
+    "INSTNM": "Marinello Schools of Beauty-Hemet",
+    "GRAD_DEBT_MDN": 9960,
+    "mdearn": 13200
+  },
+  {
+    "INSTNM": "Marinello Schools of Beauty-Moreno Valley",
+    "GRAD_DEBT_MDN": 10951,
+    "mdearn": 11700
+  },
+  {
+    "INSTNM": "Marion Military Institute",
+    "GRAD_DEBT_MDN": 11500,
+    "mdearn": 48500
+  },
+  {
+    "INSTNM": "Milan Institute-Visalia",
+    "GRAD_DEBT_MDN": 9500,
+    "mdearn": 23400
+  },
+  {
+    "INSTNM": "Miles College",
+    "GRAD_DEBT_MDN": 36569,
+    "mdearn": 27200
+  },
+  {
+    "INSTNM": "Mohave Community College",
+    "GRAD_DEBT_MDN": 13250,
+    "mdearn": 26700
+  },
+  {
+    "INSTNM": "National Park Community College",
+    "GRAD_DEBT_MDN": 18477,
+    "mdearn": 25000
+  },
+  {
+    "INSTNM": "New Tyler Barber College Inc",
+    "GRAD_DEBT_MDN": 9500,
+    "mdearn": 13400
+  },
+  {
+    "INSTNM": "North Arkansas College",
+    "GRAD_DEBT_MDN": 11500,
+    "mdearn": 25500
+  },
+  {
+    "INSTNM": "Northeast Alabama Community College",
+    "GRAD_DEBT_MDN": 5100,
+    "mdearn": 28700
+  },
+  {
+    "INSTNM": "Northern Arizona University",
+    "GRAD_DEBT_MDN": 21450,
+    "mdearn": 38800
+  },
+  {
+    "INSTNM": "Northwest-Shoals Community College",
+    "GRAD_DEBT_MDN": 11500,
+    "mdearn": 26300
+  },
+  {
+    "INSTNM": "Oakwood University",
+    "GRAD_DEBT_MDN": 30500,
+    "mdearn": 33700
+  },
+  {
+    "INSTNM": "Ottawa University-Phoenix",
+    "GRAD_DEBT_MDN": 25000,
+    "mdearn": 40700
+  },
+  {
+    "INSTNM": "Ouachita Baptist University",
+    "GRAD_DEBT_MDN": 23500,
+    "mdearn": 37500
+  },
+  {
+    "INSTNM": "Ozarka College",
+    "GRAD_DEBT_MDN": 12750,
+    "mdearn": 25200
+  },
+  {
+    "INSTNM": "Philander Smith College",
+    "GRAD_DEBT_MDN": 31000,
+    "mdearn": 26200
+  },
+  {
+    "INSTNM": "Phoenix College",
+    "GRAD_DEBT_MDN": 11373,
+    "mdearn": 32500
+  },
+  {
+    "INSTNM": "Pima Community College",
+    "GRAD_DEBT_MDN": 9500,
+    "mdearn": 30100
+  },
+  {
+    "INSTNM": "Pima Medical Institute-Albuquerque",
+    "GRAD_DEBT_MDN": 9498,
+    "mdearn": 27600
+  },
+  {
+    "INSTNM": "Pima Medical Institute-Tucson",
+    "GRAD_DEBT_MDN": 9498,
+    "mdearn": 27600
+  },
+  {
+    "INSTNM": "Prescott College",
+    "GRAD_DEBT_MDN": 25000,
+    "mdearn": 35200
+  },
+  {
+    "INSTNM": "Prince Institute-Southeast",
+    "GRAD_DEBT_MDN": 21739,
+    "mdearn": 29000
+  },
+  {
+    "INSTNM": "Prince William Sound Community College",
+    "GRAD_DEBT_MDN": 20675,
+    "mdearn": 42000
+  },
+  {
+    "INSTNM": "Professional Cosmetology Education Center",
+    "GRAD_DEBT_MDN": 10798,
+    "mdearn": "PrivacySuppressed"
+  },
+  {
+    "INSTNM": "Pulaski Technical College",
+    "GRAD_DEBT_MDN": 22862.5,
+    "mdearn": 28700
+  },
+  {
+    "INSTNM": "Reedley College",
+    "GRAD_DEBT_MDN": 4096,
+    "mdearn": 25200
+  },
+  {
+    "INSTNM": "Refrigeration School Inc",
+    "GRAD_DEBT_MDN": 12708,
+    "mdearn": 37700
+  },
+  {
+    "INSTNM": "Rio Salado College",
+    "GRAD_DEBT_MDN": 15000,
+    "mdearn": 36600
+  },
+  {
+    "INSTNM": "Roberto-Venn School of Luthiery",
+    "GRAD_DEBT_MDN": 7307,
+    "mdearn": 23000
+  },
+  {
+    "INSTNM": "Salon Success Academy-San Bernardino",
+    "GRAD_DEBT_MDN": 11339,
+    "mdearn": 12200
+  },
+  {
+    "INSTNM": "Samford University",
+    "GRAD_DEBT_MDN": 23236,
+    "mdearn": 45800
+  },
+  {
+    "INSTNM": "San Diego Christian College",
+    "GRAD_DEBT_MDN": 20249,
+    "mdearn": 34400
+  },
+  {
+    "INSTNM": "Searcy Beauty College Inc",
+    "GRAD_DEBT_MDN": 7600,
+    "mdearn": 11100
+  },
+  {
+    "INSTNM": "Snead State Community College",
+    "GRAD_DEBT_MDN": 4500,
+    "mdearn": 26000
+  },
+  {
+    "INSTNM": "South Arkansas Community College",
+    "GRAD_DEBT_MDN": 11000,
+    "mdearn": 26100
+  },
+  {
+    "INSTNM": "South University-Montgomery",
+    "GRAD_DEBT_MDN": 27167,
+    "mdearn": 29800
+  },
+  {
+    "INSTNM": "Southeast Arkansas College",
+    "GRAD_DEBT_MDN": 8300,
+    "mdearn": 26700
+  },
+  {
+    "INSTNM": "Southeastern Bible College",
+    "GRAD_DEBT_MDN": 30083,
+    "mdearn": 28800
+  },
+  {
+    "INSTNM": "Southern Arkansas University Main Campus",
+    "GRAD_DEBT_MDN": 17216.5,
+    "mdearn": 35900
+  },
+  {
+    "INSTNM": "Southern Arkansas University Tech",
+    "GRAD_DEBT_MDN": 5500,
+    "mdearn": 26800
+  },
+  {
+    "INSTNM": "Spring Hill College",
+    "GRAD_DEBT_MDN": 27000,
+    "mdearn": 43800
+  },
+  {
+    "INSTNM": "Stillman College",
+    "GRAD_DEBT_MDN": 38359,
+    "mdearn": 24700
+  },
+  {
+    "INSTNM": "Talladega College",
+    "GRAD_DEBT_MDN": 32000,
+    "mdearn": 25600
+  },
+  {
+    "INSTNM": "The Academy of Radio and TV Broadcasting",
+    "GRAD_DEBT_MDN": 9500,
+    "mdearn": 28500
+  },
+  {
+    "INSTNM": "The Art Institute of California-Argosy University San Diego",
+    "GRAD_DEBT_MDN": 14323,
+    "mdearn": 38200
+  },
+  {
+    "INSTNM": "The University of Alabama",
+    "GRAD_DEBT_MDN": 24000,
+    "mdearn": 42400
+  },
+  {
+    "INSTNM": "Troy University",
+    "GRAD_DEBT_MDN": 26000,
+    "mdearn": 36600
+  },
+  {
+    "INSTNM": "Troy University-Dothan Campus",
+    "GRAD_DEBT_MDN": 26000,
+    "mdearn": 36600
+  },
+  {
+    "INSTNM": "Troy University-eTROY",
+    "GRAD_DEBT_MDN": 26000,
+    "mdearn": 36600
+  },
+  {
+    "INSTNM": "Troy University-Montgomery Campus",
+    "GRAD_DEBT_MDN": 26000,
+    "mdearn": 36600
+  },
+  {
+    "INSTNM": "Troy University-Phenix City Campus",
+    "GRAD_DEBT_MDN": 26000,
+    "mdearn": 36600
+  },
+  {
+    "INSTNM": "Tucson College",
+    "GRAD_DEBT_MDN": 9500,
+    "mdearn": 24100
+  },
+  {
+    "INSTNM": "Tuskegee University",
+    "GRAD_DEBT_MDN": 33250,
+    "mdearn": 37100
+  },
+  {
+    "INSTNM": "Universal Technical Institute of Arizona Inc",
+    "GRAD_DEBT_MDN": 18363,
+    "mdearn": 43400
+  },
+  {
+    "INSTNM": "Universal Technical Institute of Arizona Inc-Motorcycle Mechanics Institute Division",
+    "GRAD_DEBT_MDN": 18481,
+    "mdearn": 33800
+  },
+  {
+    "INSTNM": "University of Alabama at Birmingham",
+    "GRAD_DEBT_MDN": 23117,
+    "mdearn": 40300
+  },
+  {
+    "INSTNM": "University of Alabama in Huntsville",
+    "GRAD_DEBT_MDN": 24738,
+    "mdearn": 46600
+  },
+  {
+    "INSTNM": "University of Alaska Anchorage",
+    "GRAD_DEBT_MDN": 20675,
+    "mdearn": 42000
+  },
+  {
+    "INSTNM": "University of Alaska Fairbanks",
+    "GRAD_DEBT_MDN": 20000,
+    "mdearn": 38200
+  },
+  {
+    "INSTNM": "University of Alaska Southeast",
+    "GRAD_DEBT_MDN": 19437.5,
+    "mdearn": 39500
+  },
+  {
+    "INSTNM": "University of Arizona",
+    "GRAD_DEBT_MDN": 19000,
+    "mdearn": 44400
+  },
+  {
+    "INSTNM": "University of Arkansas",
+    "GRAD_DEBT_MDN": 21524,
+    "mdearn": 43600
+  },
+  {
+    "INSTNM": "University of Arkansas at Little Rock",
+    "GRAD_DEBT_MDN": 23000,
+    "mdearn": 34800
+  },
+  {
+    "INSTNM": "University of Arkansas at Monticello",
+    "GRAD_DEBT_MDN": 15418.5,
+    "mdearn": 33600
+  },
+  {
+    "INSTNM": "University of Arkansas at Pine Bluff",
+    "GRAD_DEBT_MDN": 27954.5,
+    "mdearn": 27400
+  },
+  {
+    "INSTNM": "University of Arkansas Community College-Batesville",
+    "GRAD_DEBT_MDN": 9350,
+    "mdearn": 23900
+  },
+  {
+    "INSTNM": "University of Arkansas Community College-Morrilton",
+    "GRAD_DEBT_MDN": 9500,
+    "mdearn": 25600
+  },
+  {
+    "INSTNM": "University of Arkansas for Medical Sciences",
+    "GRAD_DEBT_MDN": 12820,
+    "mdearn": 62400
+  },
+  {
+    "INSTNM": "University of Arkansas-Fort Smith",
+    "GRAD_DEBT_MDN": 17432,
+    "mdearn": 29900
+  },
+  {
+    "INSTNM": "University of California-Berkeley",
+    "GRAD_DEBT_MDN": 14667,
+    "mdearn": 62700
+  },
+  {
+    "INSTNM": "University of California-Davis",
+    "GRAD_DEBT_MDN": 15000,
+    "mdearn": 57100
+  },
+  {
+    "INSTNM": "University of California-Irvine",
+    "GRAD_DEBT_MDN": 17414,
+    "mdearn": 55800
+  },
+  {
+    "INSTNM": "University of California-Los Angeles",
+    "GRAD_DEBT_MDN": 15900,
+    "mdearn": 59200
+  },
+  {
+    "INSTNM": "University of California-Riverside",
+    "GRAD_DEBT_MDN": 19500,
+    "mdearn": 48700
+  },
+  {
+    "INSTNM": "University of California-San Diego",
+    "GRAD_DEBT_MDN": 19266,
+    "mdearn": 59600
+  },
+  {
+    "INSTNM": "University of California-Santa Barbara",
+    "GRAD_DEBT_MDN": 18057,
+    "mdearn": 52000
+  },
+  {
+    "INSTNM": "University of California-Santa Cruz",
+    "GRAD_DEBT_MDN": 19737.5,
+    "mdearn": 44600
+  },
+  {
+    "INSTNM": "University of Central Arkansas",
+    "GRAD_DEBT_MDN": 21617,
+    "mdearn": 37100
+  },
+  {
+    "INSTNM": "University of La Verne",
+    "GRAD_DEBT_MDN": 25000,
+    "mdearn": 52700
+  },
+  {
+    "INSTNM": "University of Mobile",
+    "GRAD_DEBT_MDN": 27000,
+    "mdearn": 37800
+  },
+  {
+    "INSTNM": "University of Montevallo",
+    "GRAD_DEBT_MDN": 23400,
+    "mdearn": 35100
+  },
+  {
+    "INSTNM": "University of North Alabama",
+    "GRAD_DEBT_MDN": 21750,
+    "mdearn": 36300
+  },
+  {
+    "INSTNM": "University of Phoenix-Phoenix Campus",
+    "GRAD_DEBT_MDN": 35500,
+    "mdearn": 53400
+  },
+  {
+    "INSTNM": "University of South Alabama",
+    "GRAD_DEBT_MDN": 25000,
+    "mdearn": 38300
+  },
+  {
+    "INSTNM": "University of the Ozarks",
+    "GRAD_DEBT_MDN": 24000,
+    "mdearn": 31100
+  },
+  {
+    "INSTNM": "University of West Alabama",
+    "GRAD_DEBT_MDN": 22500,
+    "mdearn": 33800
+  },
+  {
+    "INSTNM": "Western International University",
+    "GRAD_DEBT_MDN": 33718.5,
+    "mdearn": 52600
+  },
+  {
+    "INSTNM": "Williams Baptist College",
+    "GRAD_DEBT_MDN": 19000,
+    "mdearn": 32300
+  },
+  {
+    "INSTNM": "Yavapai College",
+    "GRAD_DEBT_MDN": 10926,
+    "mdearn": 28200
+  }
+]
